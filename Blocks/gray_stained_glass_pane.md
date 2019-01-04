@@ -1,11 +1,11 @@
-# Gray Stained Glass Pane
-TextId: gray_stained_glass_pane
-MinId: 6045
-MaxId: 6076
-Hardness: 0,3
-Resistance: 0,3
+# Gray Stained Glass Pane\n
+TextId: gray_stained_glass_pane\n
+MinId: 6045\n
+MaxId: 6076\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

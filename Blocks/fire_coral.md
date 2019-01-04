@@ -1,11 +1,11 @@
-# Fire Coral
-TextId: fire_coral
-MinId: 8476
-MaxId: 8477
-Hardness: 0
-Resistance: 0
+# Fire Coral\n
+TextId: fire_coral\n
+MinId: 8476\n
+MaxId: 8477\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: waterlogged

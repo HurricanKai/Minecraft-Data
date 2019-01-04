@@ -1,11 +1,11 @@
-# Purple Glazed Terracotta
-TextId: purple_glazed_terracotta
-MinId: 8354
-MaxId: 8357
-Hardness: 1,4
-Resistance: 1,4
+# Purple Glazed Terracotta\n
+TextId: purple_glazed_terracotta\n
+MinId: 8354\n
+MaxId: 8357\n
+Hardness: 1,4\n
+Resistance: 1,4\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

@@ -1,11 +1,11 @@
-# Birch Fence
-TextId: birch_fence
-MinId: 7550
-MaxId: 7581
-Hardness: 2
-Resistance: 3
+# Birch Fence\n
+TextId: birch_fence\n
+MinId: 7550\n
+MaxId: 7581\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

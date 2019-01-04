@@ -1,11 +1,11 @@
-# Jungle Fence Gate
-TextId: jungle_fence_gate
-MinId: 7422
-MaxId: 7453
-Hardness: 2
-Resistance: 3
+# Jungle Fence Gate\n
+TextId: jungle_fence_gate\n
+MinId: 7422\n
+MaxId: 7453\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: facing

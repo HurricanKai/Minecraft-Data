@@ -1,11 +1,11 @@
-# Chipped Anvil
-TextId: chipped_anvil
-MinId: 5572
-MaxId: 5575
-Hardness: 5
-Resistance: 1200
+# Chipped Anvil\n
+TextId: chipped_anvil\n
+MinId: 5572\n
+MaxId: 5575\n
+Hardness: 5\n
+Resistance: 1200\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

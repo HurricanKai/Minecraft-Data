@@ -1,11 +1,11 @@
-# Brain Coral Block
-TextId: brain_coral_block
-MinId: 8456
-MaxId: 8456
-Hardness: 1,5
-Resistance: 6
+# Brain Coral Block\n
+TextId: brain_coral_block\n
+MinId: 8456\n
+MaxId: 8456\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

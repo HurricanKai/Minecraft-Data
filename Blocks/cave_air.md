@@ -1,11 +1,11 @@
-# Cave Air
-TextId: cave_air
-MinId: 8592
-MaxId: 8592
-Hardness: 
-Resistance: 
+# Cave Air\n
+TextId: cave_air\n
+MinId: 8592\n
+MaxId: 8592\n
+Hardness: \n
+Resistance: \n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

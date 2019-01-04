@@ -1,11 +1,11 @@
-# Sandstone Slab
-TextId: sandstone_slab
-MinId: 7300
-MaxId: 7305
-Hardness: 2
-Resistance: 6
+# Sandstone Slab\n
+TextId: sandstone_slab\n
+MinId: 7300\n
+MaxId: 7305\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

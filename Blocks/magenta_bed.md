@@ -1,11 +1,11 @@
-# Magenta Bed
-TextId: magenta_bed
-MinId: 780
-MaxId: 795
-Hardness: 0,2
-Resistance: 0,2
+# Magenta Bed\n
+TextId: magenta_bed\n
+MinId: 780\n
+MaxId: 795\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

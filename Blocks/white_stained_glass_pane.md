@@ -1,11 +1,11 @@
-# White Stained Glass Pane
-TextId: white_stained_glass_pane
-MinId: 5821
-MaxId: 5852
-Hardness: 0,3
-Resistance: 0,3
+# White Stained Glass Pane\n
+TextId: white_stained_glass_pane\n
+MinId: 5821\n
+MaxId: 5852\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

@@ -1,11 +1,11 @@
-# Ladder
-TextId: ladder
-MinId: 3172
-MaxId: 3179
-Hardness: 0,4
-Resistance: 0,4
+# Ladder\n
+TextId: ladder\n
+MinId: 3172\n
+MaxId: 3179\n
+Hardness: 0,4\n
+Resistance: 0,4\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: facing

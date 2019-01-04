@@ -1,11 +1,11 @@
-# Wheat Crops
-TextId: wheat
-MinId: 3052
-MaxId: 3059
-Hardness: 0
-Resistance: 0
+# Wheat Crops\n
+TextId: wheat\n
+MinId: 3052\n
+MaxId: 3059\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: age

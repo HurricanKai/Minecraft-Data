@@ -1,11 +1,11 @@
-# Birch Trapdoor
-TextId: birch_trapdoor
-MinId: 3722
-MaxId: 3785
-Hardness: 3
-Resistance: 3
+# Birch Trapdoor\n
+TextId: birch_trapdoor\n
+MinId: 3722\n
+MaxId: 3785\n
+Hardness: 3\n
+Resistance: 3\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: facing

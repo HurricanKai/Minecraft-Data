@@ -1,11 +1,11 @@
-# Polished Andesite
-TextId: polished_andesite
-MinId: 7
-MaxId: 7
-Hardness: 1,5
-Resistance: 6
+# Polished Andesite\n
+TextId: polished_andesite\n
+MinId: 7\n
+MaxId: 7\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

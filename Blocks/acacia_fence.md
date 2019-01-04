@@ -1,11 +1,11 @@
-# Acacia Fence
-TextId: acacia_fence
-MinId: 7614
-MaxId: 7645
-Hardness: 2
-Resistance: 3
+# Acacia Fence\n
+TextId: acacia_fence\n
+MinId: 7614\n
+MaxId: 7645\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

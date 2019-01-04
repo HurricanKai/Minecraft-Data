@@ -1,11 +1,11 @@
-# Red Concrete Powder
-TextId: red_concrete_powder
-MinId: 8408
-MaxId: 8408
-Hardness: 0,5
-Resistance: 0,5
+# Red Concrete Powder\n
+TextId: red_concrete_powder\n
+MinId: 8408\n
+MaxId: 8408\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

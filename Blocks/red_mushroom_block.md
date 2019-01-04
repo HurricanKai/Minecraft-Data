@@ -1,11 +1,11 @@
-# Red Mushroom Block
-TextId: red_mushroom_block
-MinId: 4052
-MaxId: 4115
-Hardness: 0,2
-Resistance: 0,2
+# Red Mushroom Block\n
+TextId: red_mushroom_block\n
+MinId: 4052\n
+MaxId: 4115\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: up

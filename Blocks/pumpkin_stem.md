@@ -1,11 +1,11 @@
-# Pumpkin Stem
-TextId: pumpkin_stem
-MinId: 4253
-MaxId: 4260
-Hardness: 0
-Resistance: 0
+# Pumpkin Stem\n
+TextId: pumpkin_stem\n
+MinId: 4253\n
+MaxId: 4260\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: age

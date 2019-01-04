@@ -1,11 +1,11 @@
-# Cauldron
-TextId: cauldron
-MinId: 4622
-MaxId: 4625
-Hardness: 2
-Resistance: 2
+# Cauldron\n
+TextId: cauldron\n
+MinId: 4622\n
+MaxId: 4625\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: level

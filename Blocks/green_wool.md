@@ -1,11 +1,11 @@
-# Green Wool
-TextId: green_wool
-MinId: 1096
-MaxId: 1096
-Hardness: 0,8
-Resistance: 0,8
+# Green Wool\n
+TextId: green_wool\n
+MinId: 1096\n
+MaxId: 1096\n
+Hardness: 0,8\n
+Resistance: 0,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Farmland
-TextId: farmland
-MinId: 3060
-MaxId: 3067
-Hardness: 0,6
-Resistance: 0,6
+# Farmland\n
+TextId: farmland\n
+MinId: 3060\n
+MaxId: 3067\n
+Hardness: 0,6\n
+Resistance: 0,6\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: moisture

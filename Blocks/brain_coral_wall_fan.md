@@ -1,11 +1,11 @@
-# Brain Coral Wall Fan
-TextId: brain_coral_wall_fan
-MinId: 8528
-MaxId: 8535
-Hardness: 0
-Resistance: 0
+# Brain Coral Wall Fan\n
+TextId: brain_coral_wall_fan\n
+MinId: 8528\n
+MaxId: 8535\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: facing

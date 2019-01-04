@@ -1,11 +1,11 @@
-# Jungle Stairs
-TextId: jungle_stairs
-MinId: 5045
-MaxId: 5124
-Hardness: 2
-Resistance: 3
+# Jungle Stairs\n
+TextId: jungle_stairs\n
+MinId: 5045\n
+MaxId: 5124\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

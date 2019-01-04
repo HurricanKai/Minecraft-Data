@@ -1,11 +1,11 @@
-# Yellow Glazed Terracotta
-TextId: yellow_glazed_terracotta
-MinId: 8330
-MaxId: 8333
-Hardness: 1,4
-Resistance: 1,4
+# Yellow Glazed Terracotta\n
+TextId: yellow_glazed_terracotta\n
+MinId: 8330\n
+MaxId: 8333\n
+Hardness: 1,4\n
+Resistance: 1,4\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

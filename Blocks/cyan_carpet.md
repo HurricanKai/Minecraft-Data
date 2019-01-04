@@ -1,11 +1,11 @@
-# Cyan Carpet
-TextId: cyan_carpet
-MinId: 6833
-MaxId: 6833
-Hardness: 0,1
-Resistance: 0,1
+# Cyan Carpet\n
+TextId: cyan_carpet\n
+MinId: 6833\n
+MaxId: 6833\n
+Hardness: 0,1\n
+Resistance: 0,1\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

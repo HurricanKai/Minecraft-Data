@@ -1,11 +1,11 @@
-# Pink Shulker Box
-TextId: pink_shulker_box
-MinId: 8254
-MaxId: 8259
-Hardness: 2
-Resistance: 2
+# Pink Shulker Box\n
+TextId: pink_shulker_box\n
+MinId: 8254\n
+MaxId: 8259\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: facing

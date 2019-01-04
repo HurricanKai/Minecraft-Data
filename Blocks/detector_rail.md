@@ -1,11 +1,11 @@
-# Detector Rail
-TextId: detector_rail
-MinId: 1016
-MaxId: 1027
-Hardness: 0,7
-Resistance: 0,7
+# Detector Rail\n
+TextId: detector_rail\n
+MinId: 1016\n
+MaxId: 1027\n
+Hardness: 0,7\n
+Resistance: 0,7\n
 
-Num States: 12
+Num States: 12\n
 # States
 ```
 Name: shape

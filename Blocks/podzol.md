@@ -1,11 +1,11 @@
-# Podzol
-TextId: podzol
-MinId: 12
-MaxId: 13
-Hardness: 0,5
-Resistance: 0,5
+# Podzol\n
+TextId: podzol\n
+MinId: 12\n
+MaxId: 13\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: snowy

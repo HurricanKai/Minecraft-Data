@@ -1,11 +1,11 @@
-# Frosted Ice
-TextId: frosted_ice
-MinId: 8189
-MaxId: 8192
-Hardness: 0,5
-Resistance: 0,5
+# Frosted Ice\n
+TextId: frosted_ice\n
+MinId: 8189\n
+MaxId: 8192\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: age

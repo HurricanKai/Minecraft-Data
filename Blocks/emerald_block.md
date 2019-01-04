@@ -1,11 +1,11 @@
-# Block of Emerald
-TextId: emerald_block
-MinId: 4884
-MaxId: 4884
-Hardness: 5
-Resistance: 6
+# Block of Emerald\n
+TextId: emerald_block\n
+MinId: 4884\n
+MaxId: 4884\n
+Hardness: 5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

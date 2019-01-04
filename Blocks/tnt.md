@@ -1,11 +1,11 @@
-# TNT
-TextId: tnt
-MinId: 1126
-MaxId: 1127
-Hardness: 0
-Resistance: 0
+# TNT\n
+TextId: tnt\n
+MinId: 1126\n
+MaxId: 1127\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: unstable

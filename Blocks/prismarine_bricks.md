@@ -1,11 +1,11 @@
-# Prismarine Bricks
-TextId: prismarine_bricks
-MinId: 6560
-MaxId: 6560
-Hardness: 1,5
-Resistance: 6
+# Prismarine Bricks\n
+TextId: prismarine_bricks\n
+MinId: 6560\n
+MaxId: 6560\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

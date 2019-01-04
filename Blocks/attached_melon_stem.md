@@ -1,11 +1,11 @@
-# Attached Melon Stem
-TextId: attached_melon_stem
-MinId: 4249
-MaxId: 4252
-Hardness: 0
-Resistance: 0
+# Attached Melon Stem\n
+TextId: attached_melon_stem\n
+MinId: 4249\n
+MaxId: 4252\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

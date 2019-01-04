@@ -1,11 +1,11 @@
-# Acacia Door
-TextId: acacia_door
-MinId: 7870
-MaxId: 7933
-Hardness: 3
-Resistance: 3
+# Acacia Door\n
+TextId: acacia_door\n
+MinId: 7870\n
+MaxId: 7933\n
+Hardness: 3\n
+Resistance: 3\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: half

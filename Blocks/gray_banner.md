@@ -1,11 +1,11 @@
-# Gray Banner
-TextId: gray_banner
-MinId: 6967
-MaxId: 6982
-Hardness: 1
-Resistance: 1
+# Gray Banner\n
+TextId: gray_banner\n
+MinId: 6967\n
+MaxId: 6982\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

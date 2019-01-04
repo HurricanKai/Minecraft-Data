@@ -1,11 +1,11 @@
-# Oak Stairs
-TextId: oak_stairs
-MinId: 1649
-MaxId: 1728
-Hardness: 2
-Resistance: 3
+# Oak Stairs\n
+TextId: oak_stairs\n
+MinId: 1649\n
+MaxId: 1728\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

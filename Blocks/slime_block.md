@@ -1,11 +1,11 @@
-# Slime Block
-TextId: slime_block
-MinId: 6493
-MaxId: 6493
-Hardness: 
-Resistance: 
+# Slime Block\n
+TextId: slime_block\n
+MinId: 6493\n
+MaxId: 6493\n
+Hardness: \n
+Resistance: \n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

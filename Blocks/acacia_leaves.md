@@ -1,11 +1,11 @@
-# Acacia Leaves
-TextId: acacia_leaves
-MinId: 200
-MaxId: 213
-Hardness: 0,2
-Resistance: 0,2
+# Acacia Leaves\n
+TextId: acacia_leaves\n
+MinId: 200\n
+MaxId: 213\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 14
+Num States: 14\n
 # States
 ```
 Name: distance

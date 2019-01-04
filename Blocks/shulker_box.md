@@ -1,11 +1,11 @@
-# Shulker Box
-TextId: shulker_box
-MinId: 8212
-MaxId: 8217
-Hardness: 2
-Resistance: 2
+# Shulker Box\n
+TextId: shulker_box\n
+MinId: 8212\n
+MaxId: 8217\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: facing

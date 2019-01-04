@@ -1,11 +1,11 @@
-# Potted Dead Bush
-TextId: potted_dead_bush
-MinId: 5286
-MaxId: 5286
-Hardness: 0
-Resistance: 0
+# Potted Dead Bush\n
+TextId: potted_dead_bush\n
+MinId: 5286\n
+MaxId: 5286\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

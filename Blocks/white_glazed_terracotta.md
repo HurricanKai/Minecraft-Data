@@ -1,11 +1,11 @@
-# White Glazed Terracotta
-TextId: white_glazed_terracotta
-MinId: 8314
-MaxId: 8317
-Hardness: 1,4
-Resistance: 1,4
+# White Glazed Terracotta\n
+TextId: white_glazed_terracotta\n
+MinId: 8314\n
+MaxId: 8317\n
+Hardness: 1,4\n
+Resistance: 1,4\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

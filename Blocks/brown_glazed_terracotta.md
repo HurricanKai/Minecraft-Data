@@ -1,11 +1,11 @@
-# Brown Glazed Terracotta
-TextId: brown_glazed_terracotta
-MinId: 8362
-MaxId: 8365
-Hardness: 1,4
-Resistance: 1,4
+# Brown Glazed Terracotta\n
+TextId: brown_glazed_terracotta\n
+MinId: 8362\n
+MaxId: 8365\n
+Hardness: 1,4\n
+Resistance: 1,4\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

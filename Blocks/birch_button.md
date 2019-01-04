@@ -1,11 +1,11 @@
-# Birch Button
-TextId: birch_button
-MinId: 5352
-MaxId: 5375
-Hardness: 0,5
-Resistance: 0,5
+# Birch Button\n
+TextId: birch_button\n
+MinId: 5352\n
+MaxId: 5375\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 24
+Num States: 24\n
 # States
 ```
 Name: facing

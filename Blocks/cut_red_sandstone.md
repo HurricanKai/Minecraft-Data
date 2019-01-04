@@ -1,11 +1,11 @@
-# Cut Red Sandstone
-TextId: cut_red_sandstone
-MinId: 7177
-MaxId: 7177
-Hardness: 0,8
-Resistance: 0,8
+# Cut Red Sandstone\n
+TextId: cut_red_sandstone\n
+MinId: 7177\n
+MaxId: 7177\n
+Hardness: 0,8\n
+Resistance: 0,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

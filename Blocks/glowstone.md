@@ -1,11 +1,11 @@
-# Glowstone
-TextId: glowstone
-MinId: 3496
-MaxId: 3496
-Hardness: 0,3
-Resistance: 0,3
+# Glowstone\n
+TextId: glowstone\n
+MinId: 3496\n
+MaxId: 3496\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

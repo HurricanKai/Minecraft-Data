@@ -1,11 +1,11 @@
-# Cyan Stained Glass Pane
-TextId: cyan_stained_glass_pane
-MinId: 6109
-MaxId: 6140
-Hardness: 0,3
-Resistance: 0,3
+# Cyan Stained Glass Pane\n
+TextId: cyan_stained_glass_pane\n
+MinId: 6109\n
+MaxId: 6140\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

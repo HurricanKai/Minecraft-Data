@@ -1,11 +1,11 @@
-# Magenta Stained Glass
-TextId: magenta_stained_glass
-MinId: 3580
-MaxId: 3580
-Hardness: 0,3
-Resistance: 0,3
+# Magenta Stained Glass\n
+TextId: magenta_stained_glass\n
+MinId: 3580\n
+MaxId: 3580\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

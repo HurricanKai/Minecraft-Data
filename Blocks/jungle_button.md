@@ -1,11 +1,11 @@
-# Jungle Button
-TextId: jungle_button
-MinId: 5376
-MaxId: 5399
-Hardness: 0,5
-Resistance: 0,5
+# Jungle Button\n
+TextId: jungle_button\n
+MinId: 5376\n
+MaxId: 5399\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 24
+Num States: 24\n
 # States
 ```
 Name: facing

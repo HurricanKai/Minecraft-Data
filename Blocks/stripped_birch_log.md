@@ -1,11 +1,11 @@
-# Stripped Birch Log
-TextId: stripped_birch_log
-MinId: 93
-MaxId: 95
-Hardness: 2
-Resistance: 2
+# Stripped Birch Log\n
+TextId: stripped_birch_log\n
+MinId: 93\n
+MaxId: 95\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

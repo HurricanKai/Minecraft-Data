@@ -1,11 +1,11 @@
-# Black Carpet
-TextId: black_carpet
-MinId: 6839
-MaxId: 6839
-Hardness: 0,1
-Resistance: 0,1
+# Black Carpet\n
+TextId: black_carpet\n
+MinId: 6839\n
+MaxId: 6839\n
+Hardness: 0,1\n
+Resistance: 0,1\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

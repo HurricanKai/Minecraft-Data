@@ -1,11 +1,11 @@
-# Andesite
-TextId: andesite
-MinId: 6
-MaxId: 6
-Hardness: 1,5
-Resistance: 6
+# Andesite\n
+TextId: andesite\n
+MinId: 6\n
+MaxId: 6\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

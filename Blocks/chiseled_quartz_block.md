@@ -1,11 +1,11 @@
-# Chiseled Quartz Block
-TextId: chiseled_quartz_block
-MinId: 5697
-MaxId: 5697
-Hardness: 0,8
-Resistance: 0,8
+# Chiseled Quartz Block\n
+TextId: chiseled_quartz_block\n
+MinId: 5697\n
+MaxId: 5697\n
+Hardness: 0,8\n
+Resistance: 0,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

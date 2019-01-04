@@ -1,11 +1,11 @@
-# Oak Leaves
-TextId: oak_leaves
-MinId: 144
-MaxId: 157
-Hardness: 0,2
-Resistance: 0,2
+# Oak Leaves\n
+TextId: oak_leaves\n
+MinId: 144\n
+MaxId: 157\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 14
+Num States: 14\n
 # States
 ```
 Name: distance

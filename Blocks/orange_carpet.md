@@ -1,11 +1,11 @@
-# Orange Carpet
-TextId: orange_carpet
-MinId: 6825
-MaxId: 6825
-Hardness: 0,1
-Resistance: 0,1
+# Orange Carpet\n
+TextId: orange_carpet\n
+MinId: 6825\n
+MaxId: 6825\n
+Hardness: 0,1\n
+Resistance: 0,1\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

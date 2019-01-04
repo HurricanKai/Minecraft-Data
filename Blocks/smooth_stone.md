@@ -1,11 +1,11 @@
-# Smooth Stone
-TextId: smooth_stone
-MinId: 7354
-MaxId: 7354
-Hardness: 2
-Resistance: 6
+# Smooth Stone\n
+TextId: smooth_stone\n
+MinId: 7354\n
+MaxId: 7354\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Jungle Planks
-TextId: jungle_planks
-MinId: 18
-MaxId: 18
-Hardness: 2
-Resistance: 3
+# Jungle Planks\n
+TextId: jungle_planks\n
+MinId: 18\n
+MaxId: 18\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

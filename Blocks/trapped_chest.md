@@ -1,11 +1,11 @@
-# Trapped Chest
-TextId: trapped_chest
-MinId: 5580
-MaxId: 5603
-Hardness: 2,5
-Resistance: 2,5
+# Trapped Chest\n
+TextId: trapped_chest\n
+MinId: 5580\n
+MaxId: 5603\n
+Hardness: 2,5\n
+Resistance: 2,5\n
 
-Num States: 24
+Num States: 24\n
 # States
 ```
 Name: facing

@@ -1,11 +1,11 @@
-# Redstone Comparator
-TextId: comparator
-MinId: 5636
-MaxId: 5651
-Hardness: 0
-Resistance: 0
+# Redstone Comparator\n
+TextId: comparator\n
+MinId: 5636\n
+MaxId: 5651\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

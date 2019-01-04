@@ -1,11 +1,11 @@
-# Fire
-TextId: fire
-MinId: 1136
-MaxId: 1647
-Hardness: 0
-Resistance: 0
+# Fire\n
+TextId: fire\n
+MinId: 1136\n
+MaxId: 1647\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 512
+Num States: 512\n
 # States
 ```
 Name: age

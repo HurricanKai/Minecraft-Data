@@ -1,11 +1,11 @@
-# Blue Carpet
-TextId: blue_carpet
-MinId: 6835
-MaxId: 6835
-Hardness: 0,1
-Resistance: 0,1
+# Blue Carpet\n
+TextId: blue_carpet\n
+MinId: 6835\n
+MaxId: 6835\n
+Hardness: 0,1\n
+Resistance: 0,1\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

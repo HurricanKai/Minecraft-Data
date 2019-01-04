@@ -1,11 +1,11 @@
-# Dragon Wall Head
-TextId: dragon_wall_head
-MinId: 5548
-MaxId: 5551
-Hardness: 1
-Resistance: 1
+# Dragon Wall Head\n
+TextId: dragon_wall_head\n
+MinId: 5548\n
+MaxId: 5551\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

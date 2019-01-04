@@ -1,11 +1,11 @@
-# Purpur Stairs
-TextId: purpur_stairs
-MinId: 8078
-MaxId: 8157
-Hardness: 1,5
-Resistance: 6
+# Purpur Stairs\n
+TextId: purpur_stairs\n
+MinId: 8078\n
+MaxId: 8157\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

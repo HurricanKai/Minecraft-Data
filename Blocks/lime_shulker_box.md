@@ -1,11 +1,11 @@
-# Lime Shulker Box
-TextId: lime_shulker_box
-MinId: 8248
-MaxId: 8253
-Hardness: 2
-Resistance: 2
+# Lime Shulker Box\n
+TextId: lime_shulker_box\n
+MinId: 8248\n
+MaxId: 8253\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: facing

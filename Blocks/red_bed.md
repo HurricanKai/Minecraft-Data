@@ -1,11 +1,11 @@
-# Red Bed
-TextId: red_bed
-MinId: 972
-MaxId: 987
-Hardness: 0,2
-Resistance: 0,2
+# Red Bed\n
+TextId: red_bed\n
+MinId: 972\n
+MaxId: 987\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

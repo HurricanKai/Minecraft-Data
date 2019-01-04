@@ -1,11 +1,11 @@
-# Cobblestone Wall
-TextId: cobblestone_wall
-MinId: 5138
-MaxId: 5201
-Hardness: 2
-Resistance: 6
+# Cobblestone Wall\n
+TextId: cobblestone_wall\n
+MinId: 5138\n
+MaxId: 5201\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: up

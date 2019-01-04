@@ -1,11 +1,11 @@
-# Dragon Egg
-TextId: dragon_egg
-MinId: 4636
-MaxId: 4636
-Hardness: 3
-Resistance: 9
+# Dragon Egg\n
+TextId: dragon_egg\n
+MinId: 4636\n
+MaxId: 4636\n
+Hardness: 3\n
+Resistance: 9\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

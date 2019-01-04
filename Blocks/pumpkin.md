@@ -1,11 +1,11 @@
-# Pumpkin
-TextId: pumpkin
-MinId: 3493
-MaxId: 3493
-Hardness: 1
-Resistance: 1
+# Pumpkin\n
+TextId: pumpkin\n
+MinId: 3493\n
+MaxId: 3493\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

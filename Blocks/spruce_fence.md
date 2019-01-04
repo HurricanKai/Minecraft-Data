@@ -1,11 +1,11 @@
-# Spruce Fence
-TextId: spruce_fence
-MinId: 7518
-MaxId: 7549
-Hardness: 2
-Resistance: 3
+# Spruce Fence\n
+TextId: spruce_fence\n
+MinId: 7518\n
+MaxId: 7549\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

@@ -1,11 +1,11 @@
-# Oak Pressure Plate
-TextId: oak_pressure_plate
-MinId: 3368
-MaxId: 3369
-Hardness: 0,5
-Resistance: 0,5
+# Oak Pressure Plate\n
+TextId: oak_pressure_plate\n
+MinId: 3368\n
+MaxId: 3369\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: powered

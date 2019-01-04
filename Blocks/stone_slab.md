@@ -1,11 +1,11 @@
-# Stone Slab
-TextId: stone_slab
-MinId: 7294
-MaxId: 7299
-Hardness: 2
-Resistance: 6
+# Stone Slab\n
+TextId: stone_slab\n
+MinId: 7294\n
+MaxId: 7299\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

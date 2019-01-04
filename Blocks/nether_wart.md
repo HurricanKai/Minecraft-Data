@@ -1,11 +1,11 @@
-# Nether Wart
-TextId: nether_wart
-MinId: 4609
-MaxId: 4612
-Hardness: 
-Resistance: 
+# Nether Wart\n
+TextId: nether_wart\n
+MinId: 4609\n
+MaxId: 4612\n
+Hardness: \n
+Resistance: \n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: age

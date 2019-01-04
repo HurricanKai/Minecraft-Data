@@ -1,11 +1,11 @@
-# Ice
-TextId: ice
-MinId: 3424
-MaxId: 3424
-Hardness: 0,5
-Resistance: 0,5
+# Ice\n
+TextId: ice\n
+MinId: 3424\n
+MaxId: 3424\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

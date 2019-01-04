@@ -1,11 +1,11 @@
-# Dead Fire Coral
-TextId: dead_fire_coral
-MinId: 8466
-MaxId: 8467
-Hardness: 0
-Resistance: 0
+# Dead Fire Coral\n
+TextId: dead_fire_coral\n
+MinId: 8466\n
+MaxId: 8467\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: waterlogged

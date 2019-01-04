@@ -1,11 +1,11 @@
-# Yellow Banner
-TextId: yellow_banner
-MinId: 6919
-MaxId: 6934
-Hardness: 1
-Resistance: 1
+# Yellow Banner\n
+TextId: yellow_banner\n
+MinId: 6919\n
+MaxId: 6934\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

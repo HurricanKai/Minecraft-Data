@@ -1,11 +1,11 @@
-# Potted Oxeye Daisy
-TextId: potted_oxeye_daisy
-MinId: 5283
-MaxId: 5283
-Hardness: 0
-Resistance: 0
+# Potted Oxeye Daisy\n
+TextId: potted_oxeye_daisy\n
+MinId: 5283\n
+MaxId: 5283\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

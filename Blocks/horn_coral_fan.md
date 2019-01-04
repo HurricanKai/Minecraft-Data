@@ -1,11 +1,11 @@
-# Horn Coral Fan
-TextId: horn_coral_fan
-MinId: 8578
-MaxId: 8579
-Hardness: 0
-Resistance: 0
+# Horn Coral Fan\n
+TextId: horn_coral_fan\n
+MinId: 8578\n
+MaxId: 8579\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: waterlogged

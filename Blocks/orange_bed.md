@@ -1,11 +1,11 @@
-# Orange Bed
-TextId: orange_bed
-MinId: 764
-MaxId: 779
-Hardness: 0,2
-Resistance: 0,2
+# Orange Bed\n
+TextId: orange_bed\n
+MinId: 764\n
+MaxId: 779\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

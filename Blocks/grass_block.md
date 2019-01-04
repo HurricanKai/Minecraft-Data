@@ -1,11 +1,11 @@
-# Grass Block
-TextId: grass_block
-MinId: 8
-MaxId: 9
-Hardness: 0,6
-Resistance: 0,6
+# Grass Block\n
+TextId: grass_block\n
+MinId: 8\n
+MaxId: 9\n
+Hardness: 0,6\n
+Resistance: 0,6\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: snowy

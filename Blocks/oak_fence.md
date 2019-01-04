@@ -1,11 +1,11 @@
-# Oak Fence
-TextId: oak_fence
-MinId: 3461
-MaxId: 3492
-Hardness: 2
-Resistance: 3
+# Oak Fence\n
+TextId: oak_fence\n
+MinId: 3461\n
+MaxId: 3492\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

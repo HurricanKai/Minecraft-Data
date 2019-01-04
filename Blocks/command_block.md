@@ -1,11 +1,11 @@
-# Command Block
-TextId: command_block
-MinId: 5125
-MaxId: 5136
-Hardness: -1
-Resistance: 3600000
+# Command Block\n
+TextId: command_block\n
+MinId: 5125\n
+MaxId: 5136\n
+Hardness: -1\n
+Resistance: 3600000\n
 
-Num States: 12
+Num States: 12\n
 # States
 ```
 Name: facing

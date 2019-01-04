@@ -1,11 +1,11 @@
-# Black Concrete Powder
-TextId: black_concrete_powder
-MinId: 8409
-MaxId: 8409
-Hardness: 0,5
-Resistance: 0,5
+# Black Concrete Powder\n
+TextId: black_concrete_powder\n
+MinId: 8409\n
+MaxId: 8409\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

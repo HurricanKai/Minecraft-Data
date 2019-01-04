@@ -1,11 +1,11 @@
-# Vines
-TextId: vine
-MinId: 4269
-MaxId: 4300
-Hardness: 0,2
-Resistance: 0,2
+# Vines\n
+TextId: vine\n
+MinId: 4269\n
+MaxId: 4300\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: up

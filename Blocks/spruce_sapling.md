@@ -1,11 +1,11 @@
-# Spruce Sapling
-TextId: spruce_sapling
-MinId: 23
-MaxId: 24
-Hardness: 0
-Resistance: 0
+# Spruce Sapling\n
+TextId: spruce_sapling\n
+MinId: 23\n
+MaxId: 24\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: stage

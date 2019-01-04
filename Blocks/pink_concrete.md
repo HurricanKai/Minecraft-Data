@@ -1,11 +1,11 @@
-# Pink Concrete
-TextId: pink_concrete
-MinId: 8384
-MaxId: 8384
-Hardness: 1,8
-Resistance: 1,8
+# Pink Concrete\n
+TextId: pink_concrete\n
+MinId: 8384\n
+MaxId: 8384\n
+Hardness: 1,8\n
+Resistance: 1,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

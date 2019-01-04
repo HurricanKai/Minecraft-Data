@@ -1,11 +1,11 @@
-# Cocoa
-TextId: cocoa
-MinId: 4639
-MaxId: 4650
-Hardness: 0,2
-Resistance: 3
+# Cocoa\n
+TextId: cocoa\n
+MinId: 4639\n
+MaxId: 4650\n
+Hardness: 0,2\n
+Resistance: 3\n
 
-Num States: 12
+Num States: 12\n
 # States
 ```
 Name: facing

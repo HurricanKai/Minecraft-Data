@@ -1,11 +1,11 @@
-# Ender Chest
-TextId: ender_chest
-MinId: 4732
-MaxId: 4739
-Hardness: 22,5
-Resistance: 600
+# Ender Chest\n
+TextId: ender_chest\n
+MinId: 4732\n
+MaxId: 4739\n
+Hardness: 22,5\n
+Resistance: 600\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: facing

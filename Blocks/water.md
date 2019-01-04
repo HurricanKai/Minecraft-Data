@@ -1,11 +1,11 @@
-# Water
-TextId: water
-MinId: 34
-MaxId: 49
-Hardness: 100
-Resistance: 100
+# Water\n
+TextId: water\n
+MinId: 34\n
+MaxId: 49\n
+Hardness: 100\n
+Resistance: 100\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: level

@@ -1,11 +1,11 @@
-# Acacia Log
-TextId: acacia_log
-MinId: 84
-MaxId: 86
-Hardness: 2
-Resistance: 2
+# Acacia Log\n
+TextId: acacia_log\n
+MinId: 84\n
+MaxId: 86\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

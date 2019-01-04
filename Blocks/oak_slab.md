@@ -1,11 +1,11 @@
-# Oak Slab
-TextId: oak_slab
-MinId: 7258
-MaxId: 7263
-Hardness: 2
-Resistance: 3
+# Oak Slab\n
+TextId: oak_slab\n
+MinId: 7258\n
+MaxId: 7263\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

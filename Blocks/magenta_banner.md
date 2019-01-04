@@ -1,11 +1,11 @@
-# Magenta Banner
-TextId: magenta_banner
-MinId: 6887
-MaxId: 6902
-Hardness: 1
-Resistance: 1
+# Magenta Banner\n
+TextId: magenta_banner\n
+MinId: 6887\n
+MaxId: 6902\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

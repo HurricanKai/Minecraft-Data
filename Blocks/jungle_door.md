@@ -1,11 +1,11 @@
-# Jungle Door
-TextId: jungle_door
-MinId: 7806
-MaxId: 7869
-Hardness: 3
-Resistance: 3
+# Jungle Door\n
+TextId: jungle_door\n
+MinId: 7806\n
+MaxId: 7869\n
+Hardness: 3\n
+Resistance: 3\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: half

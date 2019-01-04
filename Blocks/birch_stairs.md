@@ -1,11 +1,11 @@
-# Birch Stairs
-TextId: birch_stairs
-MinId: 4965
-MaxId: 5044
-Hardness: 2
-Resistance: 3
+# Birch Stairs\n
+TextId: birch_stairs\n
+MinId: 4965\n
+MaxId: 5044\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

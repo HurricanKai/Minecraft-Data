@@ -1,11 +1,11 @@
-# Cake
-TextId: cake
-MinId: 3507
-MaxId: 3513
-Hardness: 0,5
-Resistance: 0,5
+# Cake\n
+TextId: cake\n
+MinId: 3507\n
+MaxId: 3513\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 7
+Num States: 7\n
 # States
 ```
 Name: bites

@@ -1,11 +1,11 @@
-# Redstone Wall Torch
-TextId: redstone_wall_torch
-MinId: 3384
-MaxId: 3391
-Hardness: 0
-Resistance: 0
+# Redstone Wall Torch\n
+TextId: redstone_wall_torch\n
+MinId: 3384\n
+MaxId: 3391\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: facing

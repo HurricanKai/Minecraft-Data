@@ -1,11 +1,11 @@
-# Oak Door
-TextId: oak_door
-MinId: 3108
-MaxId: 3171
-Hardness: 3
-Resistance: 3
+# Oak Door\n
+TextId: oak_door\n
+MinId: 3108\n
+MaxId: 3171\n
+Hardness: 3\n
+Resistance: 3\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: half

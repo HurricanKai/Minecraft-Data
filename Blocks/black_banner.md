@@ -1,11 +1,11 @@
-# Black Banner
-TextId: black_banner
-MinId: 7095
-MaxId: 7110
-Hardness: 1
-Resistance: 1
+# Black Banner\n
+TextId: black_banner\n
+MinId: 7095\n
+MaxId: 7110\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

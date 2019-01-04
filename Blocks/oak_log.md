@@ -1,11 +1,11 @@
-# Oak Log
-TextId: oak_log
-MinId: 72
-MaxId: 74
-Hardness: 2
-Resistance: 2
+# Oak Log\n
+TextId: oak_log\n
+MinId: 72\n
+MaxId: 74\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

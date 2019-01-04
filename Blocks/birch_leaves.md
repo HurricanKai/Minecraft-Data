@@ -1,11 +1,11 @@
-# Birch Leaves
-TextId: birch_leaves
-MinId: 172
-MaxId: 185
-Hardness: 0,2
-Resistance: 0,2
+# Birch Leaves\n
+TextId: birch_leaves\n
+MinId: 172\n
+MaxId: 185\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 14
+Num States: 14\n
 # States
 ```
 Name: distance

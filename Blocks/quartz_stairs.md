@@ -1,11 +1,11 @@
-# Quartz Stairs
-TextId: quartz_stairs
-MinId: 5701
-MaxId: 5780
-Hardness: 0,8
-Resistance: 0,8
+# Quartz Stairs\n
+TextId: quartz_stairs\n
+MinId: 5701\n
+MaxId: 5780\n
+Hardness: 0,8\n
+Resistance: 0,8\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

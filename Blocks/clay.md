@@ -1,11 +1,11 @@
-# Clay
-TextId: clay
-MinId: 3442
-MaxId: 3442
-Hardness: 0,6
-Resistance: 0,6
+# Clay\n
+TextId: clay\n
+MinId: 3442\n
+MaxId: 3442\n
+Hardness: 0,6\n
+Resistance: 0,6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

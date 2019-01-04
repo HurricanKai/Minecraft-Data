@@ -1,11 +1,11 @@
-# Tall Grass
-TextId: tall_grass
-MinId: 6851
-MaxId: 6852
-Hardness: 0
-Resistance: 0
+# Tall Grass\n
+TextId: tall_grass\n
+MinId: 6851\n
+MaxId: 6852\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: half

@@ -1,11 +1,11 @@
-# Acacia Fence Gate
-TextId: acacia_fence_gate
-MinId: 7454
-MaxId: 7485
-Hardness: 2
-Resistance: 3
+# Acacia Fence Gate\n
+TextId: acacia_fence_gate\n
+MinId: 7454\n
+MaxId: 7485\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: facing

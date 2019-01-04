@@ -1,11 +1,11 @@
-# Purple Banner
-TextId: purple_banner
-MinId: 7015
-MaxId: 7030
-Hardness: 1
-Resistance: 1
+# Purple Banner\n
+TextId: purple_banner\n
+MinId: 7015\n
+MaxId: 7030\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

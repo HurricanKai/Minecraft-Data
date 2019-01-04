@@ -1,11 +1,11 @@
-# Dark Oak Door
-TextId: dark_oak_door
-MinId: 7934
-MaxId: 7997
-Hardness: 3
-Resistance: 3
+# Dark Oak Door\n
+TextId: dark_oak_door\n
+MinId: 7934\n
+MaxId: 7997\n
+Hardness: 3\n
+Resistance: 3\n
 
-Num States: 64
+Num States: 64\n
 # States
 ```
 Name: half

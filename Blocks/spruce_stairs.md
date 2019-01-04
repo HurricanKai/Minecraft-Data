@@ -1,11 +1,11 @@
-# Spruce Stairs
-TextId: spruce_stairs
-MinId: 4885
-MaxId: 4964
-Hardness: 2
-Resistance: 3
+# Spruce Stairs\n
+TextId: spruce_stairs\n
+MinId: 4885\n
+MaxId: 4964\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

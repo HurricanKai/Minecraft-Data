@@ -1,11 +1,11 @@
-# Spruce Button
-TextId: spruce_button
-MinId: 5328
-MaxId: 5351
-Hardness: 0,5
-Resistance: 0,5
+# Spruce Button\n
+TextId: spruce_button\n
+MinId: 5328\n
+MaxId: 5351\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 24
+Num States: 24\n
 # States
 ```
 Name: facing

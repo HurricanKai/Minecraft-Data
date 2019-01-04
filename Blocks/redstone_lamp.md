@@ -1,11 +1,11 @@
-# Redstone Lamp
-TextId: redstone_lamp
-MinId: 4637
-MaxId: 4638
-Hardness: 0,3
-Resistance: 0,3
+# Redstone Lamp\n
+TextId: redstone_lamp\n
+MinId: 4637\n
+MaxId: 4638\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: lit

@@ -1,11 +1,11 @@
-# Blue Banner
-TextId: blue_banner
-MinId: 7031
-MaxId: 7046
-Hardness: 1
-Resistance: 1
+# Blue Banner\n
+TextId: blue_banner\n
+MinId: 7031\n
+MaxId: 7046\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

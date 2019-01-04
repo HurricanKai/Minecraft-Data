@@ -1,11 +1,11 @@
-# Acacia Sapling
-TextId: acacia_sapling
-MinId: 29
-MaxId: 30
-Hardness: 0
-Resistance: 0
+# Acacia Sapling\n
+TextId: acacia_sapling\n
+MinId: 29\n
+MaxId: 30\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: stage

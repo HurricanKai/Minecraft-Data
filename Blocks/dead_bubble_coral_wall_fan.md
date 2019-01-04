@@ -1,11 +1,11 @@
-# Dead Bubble Coral Wall Fan
-TextId: dead_bubble_coral_wall_fan
-MinId: 8496
-MaxId: 8503
-Hardness: 0
-Resistance: 0
+# Dead Bubble Coral Wall Fan\n
+TextId: dead_bubble_coral_wall_fan\n
+MinId: 8496\n
+MaxId: 8503\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: facing

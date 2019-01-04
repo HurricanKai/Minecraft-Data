@@ -1,11 +1,11 @@
-# Gray Concrete Powder
-TextId: gray_concrete_powder
-MinId: 8401
-MaxId: 8401
-Hardness: 0,5
-Resistance: 0,5
+# Gray Concrete Powder\n
+TextId: gray_concrete_powder\n
+MinId: 8401\n
+MaxId: 8401\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Green Bed
-TextId: green_bed
-MinId: 956
-MaxId: 971
-Hardness: 0,2
-Resistance: 0,2
+# Green Bed\n
+TextId: green_bed\n
+MinId: 956\n
+MaxId: 971\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

@@ -1,11 +1,11 @@
-# Cyan Shulker Box
-TextId: cyan_shulker_box
-MinId: 8272
-MaxId: 8277
-Hardness: 2
-Resistance: 2
+# Cyan Shulker Box\n
+TextId: cyan_shulker_box\n
+MinId: 8272\n
+MaxId: 8277\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: facing

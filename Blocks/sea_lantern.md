@@ -1,11 +1,11 @@
-# Sea Lantern
-TextId: sea_lantern
-MinId: 6820
-MaxId: 6820
-Hardness: 0,3
-Resistance: 0,3
+# Sea Lantern\n
+TextId: sea_lantern\n
+MinId: 6820\n
+MaxId: 6820\n
+Hardness: 0,3\n
+Resistance: 0,3\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

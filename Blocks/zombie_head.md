@@ -1,11 +1,11 @@
-# Zombie Head
-TextId: zombie_head
-MinId: 5492
-MaxId: 5507
-Hardness: 1
-Resistance: 1
+# Zombie Head\n
+TextId: zombie_head\n
+MinId: 5492\n
+MaxId: 5507\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

@@ -1,11 +1,11 @@
-# Light Gray Bed
-TextId: light_gray_bed
-MinId: 876
-MaxId: 891
-Hardness: 0,2
-Resistance: 0,2
+# Light Gray Bed\n
+TextId: light_gray_bed\n
+MinId: 876\n
+MaxId: 891\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

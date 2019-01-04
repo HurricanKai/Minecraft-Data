@@ -1,11 +1,11 @@
-# Red Tulip
-TextId: red_tulip
-MinId: 1116
-MaxId: 1116
-Hardness: 0
-Resistance: 0
+# Red Tulip\n
+TextId: red_tulip\n
+MinId: 1116\n
+MaxId: 1116\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

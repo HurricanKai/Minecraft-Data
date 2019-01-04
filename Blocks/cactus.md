@@ -1,11 +1,11 @@
-# Cactus
-TextId: cactus
-MinId: 3426
-MaxId: 3441
-Hardness: 0,4
-Resistance: 0,4
+# Cactus\n
+TextId: cactus\n
+MinId: 3426\n
+MaxId: 3441\n
+Hardness: 0,4\n
+Resistance: 0,4\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: age

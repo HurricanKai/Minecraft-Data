@@ -1,11 +1,11 @@
-# Potted White Tulip
-TextId: potted_white_tulip
-MinId: 5281
-MaxId: 5281
-Hardness: 0
-Resistance: 0
+# Potted White Tulip\n
+TextId: potted_white_tulip\n
+MinId: 5281\n
+MaxId: 5281\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

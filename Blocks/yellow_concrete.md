@@ -1,11 +1,11 @@
-# Yellow Concrete
-TextId: yellow_concrete
-MinId: 8382
-MaxId: 8382
-Hardness: 1,8
-Resistance: 1,8
+# Yellow Concrete\n
+TextId: yellow_concrete\n
+MinId: 8382\n
+MaxId: 8382\n
+Hardness: 1,8\n
+Resistance: 1,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Melon Stem
-TextId: melon_stem
-MinId: 4261
-MaxId: 4268
-Hardness: 0
-Resistance: 0
+# Melon Stem\n
+TextId: melon_stem\n
+MinId: 4261\n
+MaxId: 4268\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: age

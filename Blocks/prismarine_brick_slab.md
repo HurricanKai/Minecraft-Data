@@ -1,11 +1,11 @@
-# Prismarine Brick Slab
-TextId: prismarine_brick_slab
-MinId: 6808
-MaxId: 6813
-Hardness: 1,5
-Resistance: 6
+# Prismarine Brick Slab\n
+TextId: prismarine_brick_slab\n
+MinId: 6808\n
+MaxId: 6813\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

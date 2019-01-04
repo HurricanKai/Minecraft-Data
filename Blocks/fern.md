@@ -1,11 +1,11 @@
-# Fern
-TextId: fern
-MinId: 1042
-MaxId: 1042
-Hardness: 0
-Resistance: 0
+# Fern\n
+TextId: fern\n
+MinId: 1042\n
+MaxId: 1042\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

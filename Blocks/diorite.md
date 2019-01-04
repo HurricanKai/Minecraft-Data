@@ -1,11 +1,11 @@
-# Diorite
-TextId: diorite
-MinId: 4
-MaxId: 4
-Hardness: 1,5
-Resistance: 6
+# Diorite\n
+TextId: diorite\n
+MinId: 4\n
+MaxId: 4\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

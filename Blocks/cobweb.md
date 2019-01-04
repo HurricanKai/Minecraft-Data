@@ -1,11 +1,11 @@
-# Cobweb
-TextId: cobweb
-MinId: 1040
-MaxId: 1040
-Hardness: 4
-Resistance: 4
+# Cobweb\n
+TextId: cobweb\n
+MinId: 1040\n
+MaxId: 1040\n
+Hardness: 4\n
+Resistance: 4\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Polished Granite
-TextId: polished_granite
-MinId: 3
-MaxId: 3
-Hardness: 1,5
-Resistance: 6
+# Polished Granite\n
+TextId: polished_granite\n
+MinId: 3\n
+MaxId: 3\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Quartz Slab
-TextId: quartz_slab
-MinId: 7336
-MaxId: 7341
-Hardness: 2
-Resistance: 6
+# Quartz Slab\n
+TextId: quartz_slab\n
+MinId: 7336\n
+MaxId: 7341\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

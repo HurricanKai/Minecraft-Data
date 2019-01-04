@@ -1,11 +1,11 @@
-# Cobblestone
-TextId: cobblestone
-MinId: 14
-MaxId: 14
-Hardness: 2
-Resistance: 6
+# Cobblestone\n
+TextId: cobblestone\n
+MinId: 14\n
+MaxId: 14\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

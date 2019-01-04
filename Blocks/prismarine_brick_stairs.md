@@ -1,11 +1,11 @@
-# Prismarine Brick Stairs
-TextId: prismarine_brick_stairs
-MinId: 6642
-MaxId: 6721
-Hardness: 1,5
-Resistance: 6
+# Prismarine Brick Stairs\n
+TextId: prismarine_brick_stairs\n
+MinId: 6642\n
+MaxId: 6721\n
+Hardness: 1,5\n
+Resistance: 6\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

@@ -1,11 +1,11 @@
-# Purple Concrete
-TextId: purple_concrete
-MinId: 8388
-MaxId: 8388
-Hardness: 1,8
-Resistance: 1,8
+# Purple Concrete\n
+TextId: purple_concrete\n
+MinId: 8388\n
+MaxId: 8388\n
+Hardness: 1,8\n
+Resistance: 1,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

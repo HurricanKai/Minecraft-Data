@@ -1,11 +1,11 @@
-# 
-TextId: brown_wall_banner
-MinId: 7159
-MaxId: 7162
-Hardness: 1
-Resistance: 1
+# \n
+TextId: brown_wall_banner\n
+MinId: 7159\n
+MaxId: 7162\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

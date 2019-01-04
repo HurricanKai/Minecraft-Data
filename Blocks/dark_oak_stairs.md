@@ -1,11 +1,11 @@
-# Dark Oak Stairs
-TextId: dark_oak_stairs
-MinId: 6413
-MaxId: 6492
-Hardness: 2
-Resistance: 3
+# Dark Oak Stairs\n
+TextId: dark_oak_stairs\n
+MinId: 6413\n
+MaxId: 6492\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 80
+Num States: 80\n
 # States
 ```
 Name: facing

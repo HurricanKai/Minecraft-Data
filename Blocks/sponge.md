@@ -1,11 +1,11 @@
-# Sponge
-TextId: sponge
-MinId: 228
-MaxId: 228
-Hardness: 0,6
-Resistance: 0,6
+# Sponge\n
+TextId: sponge\n
+MinId: 228\n
+MaxId: 228\n
+Hardness: 0,6\n
+Resistance: 0,6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

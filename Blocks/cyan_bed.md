@@ -1,11 +1,11 @@
-# Cyan Bed
-TextId: cyan_bed
-MinId: 892
-MaxId: 907
-Hardness: 0,2
-Resistance: 0,2
+# Cyan Bed\n
+TextId: cyan_bed\n
+MinId: 892\n
+MaxId: 907\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

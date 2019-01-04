@@ -1,11 +1,11 @@
-# Lime Bed
-TextId: lime_bed
-MinId: 828
-MaxId: 843
-Hardness: 0,2
-Resistance: 0,2
+# Lime Bed\n
+TextId: lime_bed\n
+MinId: 828\n
+MaxId: 843\n
+Hardness: 0,2\n
+Resistance: 0,2\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: facing

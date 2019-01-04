@@ -1,11 +1,11 @@
-# Potted Dandelion
-TextId: potted_dandelion
-MinId: 5274
-MaxId: 5274
-Hardness: 0
-Resistance: 0
+# Potted Dandelion\n
+TextId: potted_dandelion\n
+MinId: 5274\n
+MaxId: 5274\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Stripped Oak Log
-TextId: stripped_oak_log
-MinId: 105
-MaxId: 107
-Hardness: 2
-Resistance: 2
+# Stripped Oak Log\n
+TextId: stripped_oak_log\n
+MinId: 105\n
+MaxId: 107\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

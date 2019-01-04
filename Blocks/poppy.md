@@ -1,11 +1,11 @@
-# Poppy
-TextId: poppy
-MinId: 1112
-MaxId: 1112
-Hardness: 0
-Resistance: 0
+# Poppy\n
+TextId: poppy\n
+MinId: 1112\n
+MaxId: 1112\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

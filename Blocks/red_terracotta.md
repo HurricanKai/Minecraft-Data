@@ -1,11 +1,11 @@
-# Red Terracotta
-TextId: red_terracotta
-MinId: 5819
-MaxId: 5819
-Hardness: 1,25
-Resistance: 4,2
+# Red Terracotta\n
+TextId: red_terracotta\n
+MinId: 5819\n
+MaxId: 5819\n
+Hardness: 1,25\n
+Resistance: 4,2\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

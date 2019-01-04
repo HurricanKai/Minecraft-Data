@@ -1,11 +1,11 @@
-# Dead Brain Coral Fan
-TextId: dead_brain_coral_fan
-MinId: 8562
-MaxId: 8563
-Hardness: 0
-Resistance: 0
+# Dead Brain Coral Fan\n
+TextId: dead_brain_coral_fan\n
+MinId: 8562\n
+MaxId: 8563\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: waterlogged

@@ -1,11 +1,11 @@
-# Azure Bluet
-TextId: azure_bluet
-MinId: 1115
-MaxId: 1115
-Hardness: 0
-Resistance: 0
+# Azure Bluet\n
+TextId: azure_bluet\n
+MinId: 1115\n
+MaxId: 1115\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

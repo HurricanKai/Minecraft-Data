@@ -1,11 +1,11 @@
-# Orange Concrete Powder
-TextId: orange_concrete_powder
-MinId: 8395
-MaxId: 8395
-Hardness: 0,5
-Resistance: 0,5
+# Orange Concrete Powder\n
+TextId: orange_concrete_powder\n
+MinId: 8395\n
+MaxId: 8395\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

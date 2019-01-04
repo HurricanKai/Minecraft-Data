@@ -1,11 +1,11 @@
-# Spruce Pressure Plate
-TextId: spruce_pressure_plate
-MinId: 3370
-MaxId: 3371
-Hardness: 0,5
-Resistance: 0,5
+# Spruce Pressure Plate\n
+TextId: spruce_pressure_plate\n
+MinId: 3370\n
+MaxId: 3371\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: powered

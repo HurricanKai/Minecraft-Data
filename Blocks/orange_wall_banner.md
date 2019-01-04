@@ -1,11 +1,11 @@
-# 
-TextId: orange_wall_banner
-MinId: 7115
-MaxId: 7118
-Hardness: 1
-Resistance: 1
+# \n
+TextId: orange_wall_banner\n
+MinId: 7115\n
+MaxId: 7118\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 4
+Num States: 4\n
 # States
 ```
 Name: facing

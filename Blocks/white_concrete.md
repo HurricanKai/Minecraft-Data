@@ -1,11 +1,11 @@
-# White Concrete
-TextId: white_concrete
-MinId: 8378
-MaxId: 8378
-Hardness: 1,8
-Resistance: 1,8
+# White Concrete\n
+TextId: white_concrete\n
+MinId: 8378\n
+MaxId: 8378\n
+Hardness: 1,8\n
+Resistance: 1,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

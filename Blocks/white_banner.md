@@ -1,11 +1,11 @@
-# White Banner
-TextId: white_banner
-MinId: 6855
-MaxId: 6870
-Hardness: 1
-Resistance: 1
+# White Banner\n
+TextId: white_banner\n
+MinId: 6855\n
+MaxId: 6870\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 16
+Num States: 16\n
 # States
 ```
 Name: rotation

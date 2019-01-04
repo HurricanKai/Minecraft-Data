@@ -1,11 +1,11 @@
-# Dark Oak Fence
-TextId: dark_oak_fence
-MinId: 7646
-MaxId: 7677
-Hardness: 2
-Resistance: 3
+# Dark Oak Fence\n
+TextId: dark_oak_fence\n
+MinId: 7646\n
+MaxId: 7677\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: north

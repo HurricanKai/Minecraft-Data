@@ -1,11 +1,11 @@
-# Red Shulker Box
-TextId: red_shulker_box
-MinId: 8302
-MaxId: 8307
-Hardness: 2
-Resistance: 2
+# Red Shulker Box\n
+TextId: red_shulker_box\n
+MinId: 8302\n
+MaxId: 8307\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: facing

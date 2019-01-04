@@ -1,11 +1,11 @@
-# Redstone Torch
-TextId: redstone_torch
-MinId: 3382
-MaxId: 3383
-Hardness: 0
-Resistance: 0
+# Redstone Torch\n
+TextId: redstone_torch\n
+MinId: 3382\n
+MaxId: 3383\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: lit

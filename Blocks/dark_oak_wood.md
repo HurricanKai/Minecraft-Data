@@ -1,11 +1,11 @@
-# Dark Oak Wood
-TextId: dark_oak_wood
-MinId: 123
-MaxId: 125
-Hardness: 2
-Resistance: 2
+# Dark Oak Wood\n
+TextId: dark_oak_wood\n
+MinId: 123\n
+MaxId: 125\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

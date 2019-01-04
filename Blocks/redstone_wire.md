@@ -1,11 +1,11 @@
-# Redstone Dust
-TextId: redstone_wire
-MinId: 1753
-MaxId: 3048
-Hardness: 0
-Resistance: 0
+# Redstone Dust\n
+TextId: redstone_wire\n
+MinId: 1753\n
+MaxId: 3048\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1296
+Num States: 1296\n
 # States
 ```
 Name: north

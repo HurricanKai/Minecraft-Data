@@ -1,11 +1,11 @@
-# Bubble Column
-TextId: bubble_column
-MinId: 8593
-MaxId: 8594
-Hardness: 
-Resistance: 
+# Bubble Column\n
+TextId: bubble_column\n
+MinId: 8593\n
+MaxId: 8594\n
+Hardness: \n
+Resistance: \n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: drag

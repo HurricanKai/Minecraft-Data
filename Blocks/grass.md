@@ -1,11 +1,11 @@
-# Grass
-TextId: grass
-MinId: 1041
-MaxId: 1041
-Hardness: 0
-Resistance: 0
+# Grass\n
+TextId: grass\n
+MinId: 1041\n
+MaxId: 1041\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Block of Gold
-TextId: gold_block
-MinId: 1123
-MaxId: 1123
-Hardness: 3
-Resistance: 6
+# Block of Gold\n
+TextId: gold_block\n
+MinId: 1123\n
+MaxId: 1123\n
+Hardness: 3\n
+Resistance: 6\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Bubble Coral Fan
-TextId: bubble_coral_fan
-MinId: 8574
-MaxId: 8575
-Hardness: 0
-Resistance: 0
+# Bubble Coral Fan\n
+TextId: bubble_coral_fan\n
+MinId: 8574\n
+MaxId: 8575\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: waterlogged

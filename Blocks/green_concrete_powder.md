@@ -1,11 +1,11 @@
-# Green Concrete Powder
-TextId: green_concrete_powder
-MinId: 8407
-MaxId: 8407
-Hardness: 0,5
-Resistance: 0,5
+# Green Concrete Powder\n
+TextId: green_concrete_powder\n
+MinId: 8407\n
+MaxId: 8407\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

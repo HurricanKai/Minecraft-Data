@@ -1,11 +1,11 @@
-# Birch Log
-TextId: birch_log
-MinId: 78
-MaxId: 80
-Hardness: 2
-Resistance: 2
+# Birch Log\n
+TextId: birch_log\n
+MinId: 78\n
+MaxId: 80\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

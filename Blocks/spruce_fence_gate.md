@@ -1,11 +1,11 @@
-# Spruce Fence Gate
-TextId: spruce_fence_gate
-MinId: 7358
-MaxId: 7389
-Hardness: 2
-Resistance: 3
+# Spruce Fence Gate\n
+TextId: spruce_fence_gate\n
+MinId: 7358\n
+MaxId: 7389\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: facing

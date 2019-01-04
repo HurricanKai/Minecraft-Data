@@ -1,11 +1,11 @@
-# Dark Oak Pressure Plate
-TextId: dark_oak_pressure_plate
-MinId: 3378
-MaxId: 3379
-Hardness: 0,5
-Resistance: 0,5
+# Dark Oak Pressure Plate\n
+TextId: dark_oak_pressure_plate\n
+MinId: 3378\n
+MaxId: 3379\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 2
+Num States: 2\n
 # States
 ```
 Name: powered

@@ -1,11 +1,11 @@
-# Stripped Jungle Wood
-TextId: stripped_jungle_wood
-MinId: 135
-MaxId: 137
-Hardness: 2
-Resistance: 2
+# Stripped Jungle Wood\n
+TextId: stripped_jungle_wood\n
+MinId: 135\n
+MaxId: 137\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

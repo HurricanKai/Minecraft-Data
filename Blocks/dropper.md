@@ -1,11 +1,11 @@
-# Dropper
-TextId: dropper
-MinId: 5793
-MaxId: 5804
-Hardness: 3,5
-Resistance: 3,5
+# Dropper\n
+TextId: dropper\n
+MinId: 5793\n
+MaxId: 5804\n
+Hardness: 3,5\n
+Resistance: 3,5\n
 
-Num States: 12
+Num States: 12\n
 # States
 ```
 Name: facing

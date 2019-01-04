@@ -1,11 +1,11 @@
-# Magenta Concrete Powder
-TextId: magenta_concrete_powder
-MinId: 8396
-MaxId: 8396
-Hardness: 0,5
-Resistance: 0,5
+# Magenta Concrete Powder\n
+TextId: magenta_concrete_powder\n
+MinId: 8396\n
+MaxId: 8396\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

@@ -1,11 +1,11 @@
-# Acacia Button
-TextId: acacia_button
-MinId: 5400
-MaxId: 5423
-Hardness: 0,5
-Resistance: 0,5
+# Acacia Button\n
+TextId: acacia_button\n
+MinId: 5400\n
+MaxId: 5423\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 24
+Num States: 24\n
 # States
 ```
 Name: facing

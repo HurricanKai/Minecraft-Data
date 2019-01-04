@@ -1,11 +1,11 @@
-# Stripped Spruce Wood
-TextId: stripped_spruce_wood
-MinId: 129
-MaxId: 131
-Hardness: 2
-Resistance: 2
+# Stripped Spruce Wood\n
+TextId: stripped_spruce_wood\n
+MinId: 129\n
+MaxId: 131\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

@@ -1,11 +1,11 @@
-# Block of Quartz
-TextId: quartz_block
-MinId: 5696
-MaxId: 5696
-Hardness: 0,8
-Resistance: 0,8
+# Block of Quartz\n
+TextId: quartz_block\n
+MinId: 5696\n
+MaxId: 5696\n
+Hardness: 0,8\n
+Resistance: 0,8\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

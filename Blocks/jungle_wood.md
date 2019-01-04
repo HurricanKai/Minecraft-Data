@@ -1,11 +1,11 @@
-# Jungle Wood
-TextId: jungle_wood
-MinId: 117
-MaxId: 119
-Hardness: 2
-Resistance: 2
+# Jungle Wood\n
+TextId: jungle_wood\n
+MinId: 117\n
+MaxId: 119\n
+Hardness: 2\n
+Resistance: 2\n
 
-Num States: 3
+Num States: 3\n
 # States
 ```
 Name: axis

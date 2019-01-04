@@ -1,11 +1,11 @@
-# Dead Horn Coral Wall Fan
-TextId: dead_horn_coral_wall_fan
-MinId: 8512
-MaxId: 8519
-Hardness: 0
-Resistance: 0
+# Dead Horn Coral Wall Fan\n
+TextId: dead_horn_coral_wall_fan\n
+MinId: 8512\n
+MaxId: 8519\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 8
+Num States: 8\n
 # States
 ```
 Name: facing

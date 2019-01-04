@@ -1,11 +1,11 @@
-# Sign
-TextId: sign
-MinId: 3076
-MaxId: 3107
-Hardness: 1
-Resistance: 1
+# Sign\n
+TextId: sign\n
+MinId: 3076\n
+MaxId: 3107\n
+Hardness: 1\n
+Resistance: 1\n
 
-Num States: 32
+Num States: 32\n
 # States
 ```
 Name: rotation

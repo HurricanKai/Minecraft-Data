@@ -1,11 +1,11 @@
-# Magma Block
-TextId: magma_block
-MinId: 8193
-MaxId: 8193
-Hardness: 0,5
-Resistance: 0,5
+# Magma Block\n
+TextId: magma_block\n
+MinId: 8193\n
+MaxId: 8193\n
+Hardness: 0,5\n
+Resistance: 0,5\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 

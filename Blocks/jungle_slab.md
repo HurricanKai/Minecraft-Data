@@ -1,11 +1,11 @@
-# Jungle Slab
-TextId: jungle_slab
-MinId: 7276
-MaxId: 7281
-Hardness: 2
-Resistance: 3
+# Jungle Slab\n
+TextId: jungle_slab\n
+MinId: 7276\n
+MaxId: 7281\n
+Hardness: 2\n
+Resistance: 3\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

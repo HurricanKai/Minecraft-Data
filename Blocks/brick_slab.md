@@ -1,11 +1,11 @@
-# Brick Slab
-TextId: brick_slab
-MinId: 7318
-MaxId: 7323
-Hardness: 2
-Resistance: 6
+# Brick Slab\n
+TextId: brick_slab\n
+MinId: 7318\n
+MaxId: 7323\n
+Hardness: 2\n
+Resistance: 6\n
 
-Num States: 6
+Num States: 6\n
 # States
 ```
 Name: type

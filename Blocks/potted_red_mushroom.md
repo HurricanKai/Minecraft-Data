@@ -1,11 +1,11 @@
-# Potted Red Mushroom
-TextId: potted_red_mushroom
-MinId: 5284
-MaxId: 5284
-Hardness: 0
-Resistance: 0
+# Potted Red Mushroom\n
+TextId: potted_red_mushroom\n
+MinId: 5284\n
+MaxId: 5284\n
+Hardness: 0\n
+Resistance: 0\n
 
-Num States: 1
+Num States: 1\n
 # States
 ```
 
