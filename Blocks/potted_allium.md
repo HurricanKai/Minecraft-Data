@@ -1,11 +1,18 @@
-# Potted Allium\n
-TextId: potted_allium\n
-MinId: 5277\n
-MaxId: 5277\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Allium
 
-Num States: 1\n
+TextId: potted_allium
+
+MinId: 5277
+
+MaxId: 5277
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

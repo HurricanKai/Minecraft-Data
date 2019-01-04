@@ -1,11 +1,18 @@
-# Lime Stained Glass\n
-TextId: lime_stained_glass\n
-MinId: 3583\n
-MaxId: 3583\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Lime Stained Glass
 
-Num States: 1\n
+TextId: lime_stained_glass
+
+MinId: 3583
+
+MaxId: 3583
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

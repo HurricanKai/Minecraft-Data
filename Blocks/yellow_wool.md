@@ -1,11 +1,18 @@
-# Yellow Wool\n
-TextId: yellow_wool\n
-MinId: 1087\n
-MaxId: 1087\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Yellow Wool
 
-Num States: 1\n
+TextId: yellow_wool
+
+MinId: 1087
+
+MaxId: 1087
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

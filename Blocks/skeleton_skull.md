@@ -1,11 +1,18 @@
-# Skeleton Skull\n
-TextId: skeleton_skull\n
-MinId: 5452\n
-MaxId: 5467\n
-Hardness: 1\n
-Resistance: 1\n
+# Skeleton Skull
 
-Num States: 16\n
+TextId: skeleton_skull
+
+MinId: 5452
+
+MaxId: 5467
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

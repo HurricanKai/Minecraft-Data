@@ -1,11 +1,18 @@
-# Player Wall Head\n
-TextId: player_wall_head\n
-MinId: 5508\n
-MaxId: 5511\n
-Hardness: 1\n
-Resistance: 1\n
+# Player Wall Head
 
-Num States: 4\n
+TextId: player_wall_head
+
+MinId: 5508
+
+MaxId: 5511
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

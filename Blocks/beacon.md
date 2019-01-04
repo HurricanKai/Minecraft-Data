@@ -1,11 +1,18 @@
-# Beacon\n
-TextId: beacon\n
-MinId: 5137\n
-MaxId: 5137\n
-Hardness: 3\n
-Resistance: 3\n
+# Beacon
 
-Num States: 1\n
+TextId: beacon
+
+MinId: 5137
+
+MaxId: 5137
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

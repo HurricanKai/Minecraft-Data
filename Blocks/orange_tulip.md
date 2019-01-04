@@ -1,11 +1,18 @@
-# Orange Tulip\n
-TextId: orange_tulip\n
-MinId: 1117\n
-MaxId: 1117\n
-Hardness: 0\n
-Resistance: 0\n
+# Orange Tulip
 
-Num States: 1\n
+TextId: orange_tulip
+
+MinId: 1117
+
+MaxId: 1117
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

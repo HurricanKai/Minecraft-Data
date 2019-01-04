@@ -1,11 +1,18 @@
-# Nether Portal\n
-TextId: nether_portal\n
-MinId: 3497\n
-MaxId: 3498\n
-Hardness: -1\n
-Resistance: -1\n
+# Nether Portal
 
-Num States: 2\n
+TextId: nether_portal
+
+MinId: 3497
+
+MaxId: 3498
+
+Hardness: -1
+
+Resistance: -1
+
+
+Num States: 2
+
 # States
 ```
 Name: axis

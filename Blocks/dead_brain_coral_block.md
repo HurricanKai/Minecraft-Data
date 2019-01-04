@@ -1,11 +1,18 @@
-# Dead Brain Coral Block\n
-TextId: dead_brain_coral_block\n
-MinId: 8451\n
-MaxId: 8451\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Dead Brain Coral Block
 
-Num States: 1\n
+TextId: dead_brain_coral_block
+
+MinId: 8451
+
+MaxId: 8451
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

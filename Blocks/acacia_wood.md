@@ -1,11 +1,18 @@
-# Acacia Wood\n
-TextId: acacia_wood\n
-MinId: 120\n
-MaxId: 122\n
-Hardness: 2\n
-Resistance: 2\n
+# Acacia Wood
 
-Num States: 3\n
+TextId: acacia_wood
+
+MinId: 120
+
+MaxId: 122
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

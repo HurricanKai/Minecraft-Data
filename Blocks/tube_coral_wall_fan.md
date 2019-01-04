@@ -1,11 +1,18 @@
-# Tube Coral Wall Fan\n
-TextId: tube_coral_wall_fan\n
-MinId: 8520\n
-MaxId: 8527\n
-Hardness: 0\n
-Resistance: 0\n
+# Tube Coral Wall Fan
 
-Num States: 8\n
+TextId: tube_coral_wall_fan
+
+MinId: 8520
+
+MaxId: 8527
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

@@ -1,11 +1,18 @@
-# Chain Command Block\n
-TextId: chain_command_block\n
-MinId: 8177\n
-MaxId: 8188\n
-Hardness: -1\n
-Resistance: 3600000\n
+# Chain Command Block
 
-Num States: 12\n
+TextId: chain_command_block
+
+MinId: 8177
+
+MaxId: 8188
+
+Hardness: -1
+
+Resistance: 3600000
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

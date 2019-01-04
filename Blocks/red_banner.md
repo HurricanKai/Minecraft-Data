@@ -1,11 +1,18 @@
-# Red Banner\n
-TextId: red_banner\n
-MinId: 7079\n
-MaxId: 7094\n
-Hardness: 1\n
-Resistance: 1\n
+# Red Banner
 
-Num States: 16\n
+TextId: red_banner
+
+MinId: 7079
+
+MaxId: 7094
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

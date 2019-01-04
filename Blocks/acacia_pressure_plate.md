@@ -1,11 +1,18 @@
-# Acacia Pressure Plate\n
-TextId: acacia_pressure_plate\n
-MinId: 3376\n
-MaxId: 3377\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Acacia Pressure Plate
 
-Num States: 2\n
+TextId: acacia_pressure_plate
+
+MinId: 3376
+
+MaxId: 3377
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 2
+
 # States
 ```
 Name: powered

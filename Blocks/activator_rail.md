@@ -1,11 +1,18 @@
-# Activator Rail\n
-TextId: activator_rail\n
-MinId: 5781\n
-MaxId: 5792\n
-Hardness: 0,7\n
-Resistance: 0,7\n
+# Activator Rail
 
-Num States: 12\n
+TextId: activator_rail
+
+MinId: 5781
+
+MaxId: 5792
+
+Hardness: 0,7
+
+Resistance: 0,7
+
+
+Num States: 12
+
 # States
 ```
 Name: shape

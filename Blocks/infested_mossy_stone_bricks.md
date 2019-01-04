@@ -1,11 +1,18 @@
-# Infested Mossy Stone Bricks\n
-TextId: infested_mossy_stone_bricks\n
-MinId: 3981\n
-MaxId: 3981\n
-Hardness: 0\n
-Resistance: 0,75\n
+# Infested Mossy Stone Bricks
 
-Num States: 1\n
+TextId: infested_mossy_stone_bricks
+
+MinId: 3981
+
+MaxId: 3981
+
+Hardness: 0
+
+Resistance: 0,75
+
+
+Num States: 1
+
 # States
 ```
 

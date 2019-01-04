@@ -1,11 +1,18 @@
-# Damaged Anvil\n
-TextId: damaged_anvil\n
-MinId: 5576\n
-MaxId: 5579\n
-Hardness: 5\n
-Resistance: 1200\n
+# Damaged Anvil
 
-Num States: 4\n
+TextId: damaged_anvil
+
+MinId: 5576
+
+MaxId: 5579
+
+Hardness: 5
+
+Resistance: 1200
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

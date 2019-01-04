@@ -1,11 +1,18 @@
-# Dark Prismarine Slab\n
-TextId: dark_prismarine_slab\n
-MinId: 6814\n
-MaxId: 6819\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Dark Prismarine Slab
 
-Num States: 6\n
+TextId: dark_prismarine_slab
+
+MinId: 6814
+
+MaxId: 6819
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 6
+
 # States
 ```
 Name: type

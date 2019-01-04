@@ -1,11 +1,18 @@
-# Quartz Pillar\n
-TextId: quartz_pillar\n
-MinId: 5698\n
-MaxId: 5700\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Quartz Pillar
 
-Num States: 3\n
+TextId: quartz_pillar
+
+MinId: 5698
+
+MaxId: 5700
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

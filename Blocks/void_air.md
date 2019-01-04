@@ -1,11 +1,18 @@
-# Void Air\n
-TextId: void_air\n
-MinId: 8591\n
-MaxId: 8591\n
-Hardness: \n
-Resistance: \n
+# Void Air
 
-Num States: 1\n
+TextId: void_air
+
+MinId: 8591
+
+MaxId: 8591
+
+Hardness: 
+
+Resistance: 
+
+
+Num States: 1
+
 # States
 ```
 

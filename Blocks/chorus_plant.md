@@ -1,11 +1,18 @@
-# Chorus Plant\n
-TextId: chorus_plant\n
-MinId: 8004\n
-MaxId: 8067\n
-Hardness: 0,4\n
-Resistance: 0,4\n
+# Chorus Plant
 
-Num States: 64\n
+TextId: chorus_plant
+
+MinId: 8004
+
+MaxId: 8067
+
+Hardness: 0,4
+
+Resistance: 0,4
+
+
+Num States: 64
+
 # States
 ```
 Name: north

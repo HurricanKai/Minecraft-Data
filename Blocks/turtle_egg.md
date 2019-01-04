@@ -1,11 +1,18 @@
-# Turtle Egg\n
-TextId: turtle_egg\n
-MinId: 8438\n
-MaxId: 8449\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Turtle Egg
 
-Num States: 12\n
+TextId: turtle_egg
+
+MinId: 8438
+
+MaxId: 8449
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 12
+
 # States
 ```
 Name: hatch

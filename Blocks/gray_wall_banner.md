@@ -1,11 +1,18 @@
-# \n
-TextId: gray_wall_banner\n
-MinId: 7139\n
-MaxId: 7142\n
-Hardness: 1\n
-Resistance: 1\n
+# 
 
-Num States: 4\n
+TextId: gray_wall_banner
+
+MinId: 7139
+
+MaxId: 7142
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

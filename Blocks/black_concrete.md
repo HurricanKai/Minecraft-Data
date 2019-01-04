@@ -1,11 +1,18 @@
-# Black Concrete\n
-TextId: black_concrete\n
-MinId: 8393\n
-MaxId: 8393\n
-Hardness: 1,8\n
-Resistance: 1,8\n
+# Black Concrete
 
-Num States: 1\n
+TextId: black_concrete
+
+MinId: 8393
+
+MaxId: 8393
+
+Hardness: 1,8
+
+Resistance: 1,8
+
+
+Num States: 1
+
 # States
 ```
 

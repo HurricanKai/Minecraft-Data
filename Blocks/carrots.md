@@ -1,11 +1,18 @@
-# Carrots\n
-TextId: carrots\n
-MinId: 5288\n
-MaxId: 5295\n
-Hardness: 0\n
-Resistance: 0\n
+# Carrots
 
-Num States: 8\n
+TextId: carrots
+
+MinId: 5288
+
+MaxId: 5295
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: age

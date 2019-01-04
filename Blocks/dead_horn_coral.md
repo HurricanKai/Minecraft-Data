@@ -1,11 +1,18 @@
-# Dead Horn Coral\n
-TextId: dead_horn_coral\n
-MinId: 8468\n
-MaxId: 8469\n
-Hardness: 0\n
-Resistance: 0\n
+# Dead Horn Coral
 
-Num States: 2\n
+TextId: dead_horn_coral
+
+MinId: 8468
+
+MaxId: 8469
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

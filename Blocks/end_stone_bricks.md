@@ -1,11 +1,18 @@
-# End Stone Bricks\n
-TextId: end_stone_bricks\n
-MinId: 8158\n
-MaxId: 8158\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# End Stone Bricks
 
-Num States: 1\n
+TextId: end_stone_bricks
+
+MinId: 8158
+
+MaxId: 8158
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

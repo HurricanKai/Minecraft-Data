@@ -1,11 +1,18 @@
-# Black Wool\n
-TextId: black_wool\n
-MinId: 1098\n
-MaxId: 1098\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Black Wool
 
-Num States: 1\n
+TextId: black_wool
+
+MinId: 1098
+
+MaxId: 1098
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

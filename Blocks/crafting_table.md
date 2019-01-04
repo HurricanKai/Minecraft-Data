@@ -1,11 +1,18 @@
-# Crafting Table\n
-TextId: crafting_table\n
-MinId: 3051\n
-MaxId: 3051\n
-Hardness: 2,5\n
-Resistance: 2,5\n
+# Crafting Table
 
-Num States: 1\n
+TextId: crafting_table
+
+MinId: 3051
+
+MaxId: 3051
+
+Hardness: 2,5
+
+Resistance: 2,5
+
+
+Num States: 1
+
 # States
 ```
 

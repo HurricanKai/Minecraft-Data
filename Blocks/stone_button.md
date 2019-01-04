@@ -1,11 +1,18 @@
-# Stone Button\n
-TextId: stone_button\n
-MinId: 3392\n
-MaxId: 3415\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Stone Button
 
-Num States: 24\n
+TextId: stone_button
+
+MinId: 3392
+
+MaxId: 3415
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 24
+
 # States
 ```
 Name: facing

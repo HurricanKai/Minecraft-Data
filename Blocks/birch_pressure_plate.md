@@ -1,11 +1,18 @@
-# Birch Pressure Plate\n
-TextId: birch_pressure_plate\n
-MinId: 3372\n
-MaxId: 3373\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Birch Pressure Plate
 
-Num States: 2\n
+TextId: birch_pressure_plate
+
+MinId: 3372
+
+MaxId: 3373
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 2
+
 # States
 ```
 Name: powered

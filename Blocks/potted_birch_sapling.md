@@ -1,11 +1,18 @@
-# Potted Birch Sapling\n
-TextId: potted_birch_sapling\n
-MinId: 5269\n
-MaxId: 5269\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Birch Sapling
 
-Num States: 1\n
+TextId: potted_birch_sapling
+
+MinId: 5269
+
+MaxId: 5269
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

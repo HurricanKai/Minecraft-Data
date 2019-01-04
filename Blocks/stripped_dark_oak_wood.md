@@ -1,11 +1,18 @@
-# Stripped Dark Oak Wood\n
-TextId: stripped_dark_oak_wood\n
-MinId: 141\n
-MaxId: 143\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Dark Oak Wood
 
-Num States: 3\n
+TextId: stripped_dark_oak_wood
+
+MinId: 141
+
+MaxId: 143
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

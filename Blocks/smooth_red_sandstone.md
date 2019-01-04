@@ -1,11 +1,18 @@
-# Smooth Red Sandstone\n
-TextId: smooth_red_sandstone\n
-MinId: 7357\n
-MaxId: 7357\n
-Hardness: 2\n
-Resistance: 6\n
+# Smooth Red Sandstone
 
-Num States: 1\n
+TextId: smooth_red_sandstone
+
+MinId: 7357
+
+MaxId: 7357
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

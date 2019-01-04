@@ -1,11 +1,18 @@
-# Iron Trapdoor\n
-TextId: iron_trapdoor\n
-MinId: 6495\n
-MaxId: 6558\n
-Hardness: 5\n
-Resistance: 5\n
+# Iron Trapdoor
 
-Num States: 64\n
+TextId: iron_trapdoor
+
+MinId: 6495
+
+MaxId: 6558
+
+Hardness: 5
+
+Resistance: 5
+
+
+Num States: 64
+
 # States
 ```
 Name: facing

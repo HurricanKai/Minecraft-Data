@@ -1,11 +1,18 @@
-# Redstone Ore\n
-TextId: redstone_ore\n
-MinId: 3380\n
-MaxId: 3381\n
-Hardness: 3\n
-Resistance: 3\n
+# Redstone Ore
 
-Num States: 2\n
+TextId: redstone_ore
+
+MinId: 3380
+
+MaxId: 3381
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 2
+
 # States
 ```
 Name: lit

@@ -1,11 +1,18 @@
-# Pink Tulip\n
-TextId: pink_tulip\n
-MinId: 1119\n
-MaxId: 1119\n
-Hardness: 0\n
-Resistance: 0\n
+# Pink Tulip
 
-Num States: 1\n
+TextId: pink_tulip
+
+MinId: 1119
+
+MaxId: 1119
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

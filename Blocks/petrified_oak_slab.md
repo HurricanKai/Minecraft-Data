@@ -1,11 +1,18 @@
-# Petrified Oak Slab\n
-TextId: petrified_oak_slab\n
-MinId: 7306\n
-MaxId: 7311\n
-Hardness: 2\n
-Resistance: 6\n
+# Petrified Oak Slab
 
-Num States: 6\n
+TextId: petrified_oak_slab
+
+MinId: 7306
+
+MaxId: 7311
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 6
+
 # States
 ```
 Name: type

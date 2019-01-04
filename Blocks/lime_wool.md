@@ -1,11 +1,18 @@
-# Lime Wool\n
-TextId: lime_wool\n
-MinId: 1088\n
-MaxId: 1088\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Lime Wool
 
-Num States: 1\n
+TextId: lime_wool
+
+MinId: 1088
+
+MaxId: 1088
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

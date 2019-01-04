@@ -1,11 +1,18 @@
-# Glass\n
-TextId: glass\n
-MinId: 230\n
-MaxId: 230\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Glass
 
-Num States: 1\n
+TextId: glass
+
+MinId: 230
+
+MaxId: 230
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

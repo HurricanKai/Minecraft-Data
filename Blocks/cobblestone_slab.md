@@ -1,11 +1,18 @@
-# Cobblestone Slab\n
-TextId: cobblestone_slab\n
-MinId: 7312\n
-MaxId: 7317\n
-Hardness: 2\n
-Resistance: 6\n
+# Cobblestone Slab
 
-Num States: 6\n
+TextId: cobblestone_slab
+
+MinId: 7312
+
+MaxId: 7317
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 6
+
 # States
 ```
 Name: type

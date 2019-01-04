@@ -1,11 +1,18 @@
-# Bubble Coral Block\n
-TextId: bubble_coral_block\n
-MinId: 8457\n
-MaxId: 8457\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Bubble Coral Block
 
-Num States: 1\n
+TextId: bubble_coral_block
+
+MinId: 8457
+
+MaxId: 8457
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

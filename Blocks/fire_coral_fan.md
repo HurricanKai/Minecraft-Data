@@ -1,11 +1,18 @@
-# Fire Coral Fan\n
-TextId: fire_coral_fan\n
-MinId: 8576\n
-MaxId: 8577\n
-Hardness: 0\n
-Resistance: 0\n
+# Fire Coral Fan
 
-Num States: 2\n
+TextId: fire_coral_fan
+
+MinId: 8576
+
+MaxId: 8577
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

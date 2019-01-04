@@ -1,11 +1,18 @@
-# Acacia Slab\n
-TextId: acacia_slab\n
-MinId: 7282\n
-MaxId: 7287\n
-Hardness: 2\n
-Resistance: 3\n
+# Acacia Slab
 
-Num States: 6\n
+TextId: acacia_slab
+
+MinId: 7282
+
+MaxId: 7287
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 6
+
 # States
 ```
 Name: type

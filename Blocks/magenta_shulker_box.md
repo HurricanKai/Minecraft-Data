@@ -1,11 +1,18 @@
-# Magenta Shulker Box\n
-TextId: magenta_shulker_box\n
-MinId: 8230\n
-MaxId: 8235\n
-Hardness: 2\n
-Resistance: 2\n
+# Magenta Shulker Box
 
-Num States: 6\n
+TextId: magenta_shulker_box
+
+MinId: 8230
+
+MaxId: 8235
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 6
+
 # States
 ```
 Name: facing

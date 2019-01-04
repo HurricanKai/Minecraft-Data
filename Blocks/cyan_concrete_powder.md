@@ -1,11 +1,18 @@
-# Cyan Concrete Powder\n
-TextId: cyan_concrete_powder\n
-MinId: 8403\n
-MaxId: 8403\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Cyan Concrete Powder
 
-Num States: 1\n
+TextId: cyan_concrete_powder
+
+MinId: 8403
+
+MaxId: 8403
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

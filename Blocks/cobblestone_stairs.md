@@ -1,11 +1,18 @@
-# Cobblestone Stairs\n
-TextId: cobblestone_stairs\n
-MinId: 3190\n
-MaxId: 3269\n
-Hardness: 2\n
-Resistance: 6\n
+# Cobblestone Stairs
 
-Num States: 80\n
+TextId: cobblestone_stairs
+
+MinId: 3190
+
+MaxId: 3269
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 80
+
 # States
 ```
 Name: facing

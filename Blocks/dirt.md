@@ -1,11 +1,18 @@
-# Dirt\n
-TextId: dirt\n
-MinId: 10\n
-MaxId: 10\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Dirt
 
-Num States: 1\n
+TextId: dirt
+
+MinId: 10
+
+MaxId: 10
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

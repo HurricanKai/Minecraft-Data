@@ -1,11 +1,18 @@
-# Stripped Jungle Log\n
-TextId: stripped_jungle_log\n
-MinId: 96\n
-MaxId: 98\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Jungle Log
 
-Num States: 3\n
+TextId: stripped_jungle_log
+
+MinId: 96
+
+MaxId: 98
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

@@ -1,11 +1,18 @@
-# Birch Wood\n
-TextId: birch_wood\n
-MinId: 114\n
-MaxId: 116\n
-Hardness: 2\n
-Resistance: 2\n
+# Birch Wood
 
-Num States: 3\n
+TextId: birch_wood
+
+MinId: 114
+
+MaxId: 116
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

@@ -1,11 +1,18 @@
-# Dead Bubble Coral Block\n
-TextId: dead_bubble_coral_block\n
-MinId: 8452\n
-MaxId: 8452\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Dead Bubble Coral Block
 
-Num States: 1\n
+TextId: dead_bubble_coral_block
+
+MinId: 8452
+
+MaxId: 8452
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

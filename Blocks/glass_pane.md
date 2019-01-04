@@ -1,11 +1,18 @@
-# Glass Pane\n
-TextId: glass_pane\n
-MinId: 4212\n
-MaxId: 4243\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Glass Pane
 
-Num States: 32\n
+TextId: glass_pane
+
+MinId: 4212
+
+MaxId: 4243
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 32
+
 # States
 ```
 Name: north

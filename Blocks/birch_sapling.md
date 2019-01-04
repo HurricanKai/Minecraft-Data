@@ -1,11 +1,18 @@
-# Birch Sapling\n
-TextId: birch_sapling\n
-MinId: 25\n
-MaxId: 26\n
-Hardness: 0\n
-Resistance: 0\n
+# Birch Sapling
 
-Num States: 2\n
+TextId: birch_sapling
+
+MinId: 25
+
+MaxId: 26
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: stage

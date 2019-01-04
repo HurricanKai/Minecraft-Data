@@ -1,11 +1,18 @@
-# Emerald Ore\n
-TextId: emerald_ore\n
-MinId: 4731\n
-MaxId: 4731\n
-Hardness: 3\n
-Resistance: 3\n
+# Emerald Ore
 
-Num States: 1\n
+TextId: emerald_ore
+
+MinId: 4731
+
+MaxId: 4731
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

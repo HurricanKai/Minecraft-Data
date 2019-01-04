@@ -1,11 +1,18 @@
-# Bookshelf\n
-TextId: bookshelf\n
-MinId: 1128\n
-MaxId: 1128\n
-Hardness: 1,5\n
-Resistance: 1,5\n
+# Bookshelf
 
-Num States: 1\n
+TextId: bookshelf
+
+MinId: 1128
+
+MaxId: 1128
+
+Hardness: 1,5
+
+Resistance: 1,5
+
+
+Num States: 1
+
 # States
 ```
 

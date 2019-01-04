@@ -1,11 +1,18 @@
-# Rail\n
-TextId: rail\n
-MinId: 3180\n
-MaxId: 3189\n
-Hardness: 0,7\n
-Resistance: 0,7\n
+# Rail
 
-Num States: 10\n
+TextId: rail
+
+MinId: 3180
+
+MaxId: 3189
+
+Hardness: 0,7
+
+Resistance: 0,7
+
+
+Num States: 10
+
 # States
 ```
 Name: shape

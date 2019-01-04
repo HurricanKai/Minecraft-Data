@@ -1,11 +1,18 @@
-# Mossy Cobblestone Wall\n
-TextId: mossy_cobblestone_wall\n
-MinId: 5202\n
-MaxId: 5265\n
-Hardness: 2\n
-Resistance: 6\n
+# Mossy Cobblestone Wall
 
-Num States: 64\n
+TextId: mossy_cobblestone_wall
+
+MinId: 5202
+
+MaxId: 5265
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 64
+
 # States
 ```
 Name: up

@@ -1,11 +1,18 @@
-# Cyan Wool\n
-TextId: cyan_wool\n
-MinId: 1092\n
-MaxId: 1092\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Cyan Wool
 
-Num States: 1\n
+TextId: cyan_wool
+
+MinId: 1092
+
+MaxId: 1092
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Yellow Concrete Powder\n
-TextId: yellow_concrete_powder\n
-MinId: 8398\n
-MaxId: 8398\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Yellow Concrete Powder
 
-Num States: 1\n
+TextId: yellow_concrete_powder
+
+MinId: 8398
+
+MaxId: 8398
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

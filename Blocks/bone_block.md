@@ -1,11 +1,18 @@
-# Bone Block\n
-TextId: bone_block\n
-MinId: 8196\n
-MaxId: 8198\n
-Hardness: 2\n
-Resistance: 2\n
+# Bone Block
 
-Num States: 3\n
+TextId: bone_block
+
+MinId: 8196
+
+MaxId: 8198
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

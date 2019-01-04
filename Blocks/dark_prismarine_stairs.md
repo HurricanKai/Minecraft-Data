@@ -1,11 +1,18 @@
-# Dark Prismarine Stairs\n
-TextId: dark_prismarine_stairs\n
-MinId: 6722\n
-MaxId: 6801\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Dark Prismarine Stairs
 
-Num States: 80\n
+TextId: dark_prismarine_stairs
+
+MinId: 6722
+
+MaxId: 6801
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 80
+
 # States
 ```
 Name: facing

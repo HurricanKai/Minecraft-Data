@@ -1,11 +1,18 @@
-# Spruce Leaves\n
-TextId: spruce_leaves\n
-MinId: 158\n
-MaxId: 171\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Spruce Leaves
 
-Num States: 14\n
+TextId: spruce_leaves
+
+MinId: 158
+
+MaxId: 171
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 14
+
 # States
 ```
 Name: distance

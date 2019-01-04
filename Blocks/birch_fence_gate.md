@@ -1,11 +1,18 @@
-# Birch Fence Gate\n
-TextId: birch_fence_gate\n
-MinId: 7390\n
-MaxId: 7421\n
-Hardness: 2\n
-Resistance: 3\n
+# Birch Fence Gate
 
-Num States: 32\n
+TextId: birch_fence_gate
+
+MinId: 7390
+
+MaxId: 7421
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 32
+
 # States
 ```
 Name: facing

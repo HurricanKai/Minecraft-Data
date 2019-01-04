@@ -1,11 +1,18 @@
-# Block of Coal\n
-TextId: coal_block\n
-MinId: 6841\n
-MaxId: 6841\n
-Hardness: 5\n
-Resistance: 6\n
+# Block of Coal
 
-Num States: 1\n
+TextId: coal_block
+
+MinId: 6841
+
+MaxId: 6841
+
+Hardness: 5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Acacia Trapdoor\n
-TextId: acacia_trapdoor\n
-MinId: 3850\n
-MaxId: 3913\n
-Hardness: 3\n
-Resistance: 3\n
+# Acacia Trapdoor
 
-Num States: 64\n
+TextId: acacia_trapdoor
+
+MinId: 3850
+
+MaxId: 3913
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 64
+
 # States
 ```
 Name: facing

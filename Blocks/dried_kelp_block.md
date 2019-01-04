@@ -1,11 +1,18 @@
-# Dried Kelp Block\n
-TextId: dried_kelp_block\n
-MinId: 8437\n
-MaxId: 8437\n
-Hardness: 0,5\n
-Resistance: 2,5\n
+# Dried Kelp Block
 
-Num States: 1\n
+TextId: dried_kelp_block
+
+MinId: 8437
+
+MaxId: 8437
+
+Hardness: 0,5
+
+Resistance: 2,5
+
+
+Num States: 1
+
 # States
 ```
 

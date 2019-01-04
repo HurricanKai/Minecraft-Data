@@ -1,11 +1,18 @@
-# Magenta Glazed Terracotta\n
-TextId: magenta_glazed_terracotta\n
-MinId: 8322\n
-MaxId: 8325\n
-Hardness: 1,4\n
-Resistance: 1,4\n
+# Magenta Glazed Terracotta
 
-Num States: 4\n
+TextId: magenta_glazed_terracotta
+
+MinId: 8322
+
+MaxId: 8325
+
+Hardness: 1,4
+
+Resistance: 1,4
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

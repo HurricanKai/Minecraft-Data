@@ -1,11 +1,18 @@
-# Observer\n
-TextId: observer\n
-MinId: 8200\n
-MaxId: 8211\n
-Hardness: 3\n
-Resistance: 3\n
+# Observer
 
-Num States: 12\n
+TextId: observer
+
+MinId: 8200
+
+MaxId: 8211
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

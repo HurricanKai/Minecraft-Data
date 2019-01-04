@@ -1,11 +1,18 @@
-# Horn Coral Wall Fan\n
-TextId: horn_coral_wall_fan\n
-MinId: 8552\n
-MaxId: 8559\n
-Hardness: 0\n
-Resistance: 0\n
+# Horn Coral Wall Fan
 
-Num States: 8\n
+TextId: horn_coral_wall_fan
+
+MinId: 8552
+
+MaxId: 8559
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

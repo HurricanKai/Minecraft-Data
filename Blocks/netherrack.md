@@ -1,11 +1,18 @@
-# Netherrack\n
-TextId: netherrack\n
-MinId: 3494\n
-MaxId: 3494\n
-Hardness: 0,4\n
-Resistance: 0,4\n
+# Netherrack
 
-Num States: 1\n
+TextId: netherrack
+
+MinId: 3494
+
+MaxId: 3494
+
+Hardness: 0,4
+
+Resistance: 0,4
+
+
+Num States: 1
+
 # States
 ```
 

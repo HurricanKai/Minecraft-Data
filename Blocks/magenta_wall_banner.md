@@ -1,11 +1,18 @@
-# \n
-TextId: magenta_wall_banner\n
-MinId: 7119\n
-MaxId: 7122\n
-Hardness: 1\n
-Resistance: 1\n
+# 
 
-Num States: 4\n
+TextId: magenta_wall_banner
+
+MinId: 7119
+
+MaxId: 7122
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

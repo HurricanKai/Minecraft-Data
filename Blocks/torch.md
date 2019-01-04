@@ -1,11 +1,18 @@
-# Torch\n
-TextId: torch\n
-MinId: 1131\n
-MaxId: 1131\n
-Hardness: 0\n
-Resistance: 0\n
+# Torch
 
-Num States: 1\n
+TextId: torch
+
+MinId: 1131
+
+MaxId: 1131
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

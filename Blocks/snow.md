@@ -1,11 +1,18 @@
-# Snow\n
-TextId: snow\n
-MinId: 3416\n
-MaxId: 3423\n
-Hardness: 0,1\n
-Resistance: 0,1\n
+# Snow
 
-Num States: 8\n
+TextId: snow
+
+MinId: 3416
+
+MaxId: 3423
+
+Hardness: 0,1
+
+Resistance: 0,1
+
+
+Num States: 8
+
 # States
 ```
 Name: layers

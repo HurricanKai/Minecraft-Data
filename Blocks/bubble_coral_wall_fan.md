@@ -1,11 +1,18 @@
-# Bubble Coral Wall Fan\n
-TextId: bubble_coral_wall_fan\n
-MinId: 8536\n
-MaxId: 8543\n
-Hardness: 0\n
-Resistance: 0\n
+# Bubble Coral Wall Fan
 
-Num States: 8\n
+TextId: bubble_coral_wall_fan
+
+MinId: 8536
+
+MaxId: 8543
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

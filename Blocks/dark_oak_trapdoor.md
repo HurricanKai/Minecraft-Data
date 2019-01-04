@@ -1,11 +1,18 @@
-# Dark Oak Trapdoor\n
-TextId: dark_oak_trapdoor\n
-MinId: 3914\n
-MaxId: 3977\n
-Hardness: 3\n
-Resistance: 3\n
+# Dark Oak Trapdoor
 
-Num States: 64\n
+TextId: dark_oak_trapdoor
+
+MinId: 3914
+
+MaxId: 3977
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 64
+
 # States
 ```
 Name: facing

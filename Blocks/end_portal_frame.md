@@ -1,11 +1,18 @@
-# End Portal Frame\n
-TextId: end_portal_frame\n
-MinId: 4627\n
-MaxId: 4634\n
-Hardness: -1\n
-Resistance: 3600000\n
+# End Portal Frame
 
-Num States: 8\n
+TextId: end_portal_frame
+
+MinId: 4627
+
+MaxId: 4634
+
+Hardness: -1
+
+Resistance: 3600000
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

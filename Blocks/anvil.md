@@ -1,11 +1,18 @@
-# Anvil\n
-TextId: anvil\n
-MinId: 5568\n
-MaxId: 5571\n
-Hardness: 5\n
-Resistance: 1200\n
+# Anvil
 
-Num States: 4\n
+TextId: anvil
+
+MinId: 5568
+
+MaxId: 5571
+
+Hardness: 5
+
+Resistance: 1200
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

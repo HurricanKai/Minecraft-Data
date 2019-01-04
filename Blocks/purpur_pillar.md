@@ -1,11 +1,18 @@
-# Purpur Pillar\n
-TextId: purpur_pillar\n
-MinId: 8075\n
-MaxId: 8077\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Purpur Pillar
 
-Num States: 3\n
+TextId: purpur_pillar
+
+MinId: 8075
+
+MaxId: 8077
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

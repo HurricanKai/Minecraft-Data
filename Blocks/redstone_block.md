@@ -1,11 +1,18 @@
-# Block of Redstone\n
-TextId: redstone_block\n
-MinId: 5684\n
-MaxId: 5684\n
-Hardness: 5\n
-Resistance: 6\n
+# Block of Redstone
 
-Num States: 1\n
+TextId: redstone_block
+
+MinId: 5684
+
+MaxId: 5684
+
+Hardness: 5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

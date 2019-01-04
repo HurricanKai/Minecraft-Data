@@ -1,11 +1,18 @@
-# Jungle Leaves\n
-TextId: jungle_leaves\n
-MinId: 186\n
-MaxId: 199\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Jungle Leaves
 
-Num States: 14\n
+TextId: jungle_leaves
+
+MinId: 186
+
+MaxId: 199
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 14
+
 # States
 ```
 Name: distance

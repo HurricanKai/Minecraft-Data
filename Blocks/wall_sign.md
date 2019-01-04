@@ -1,11 +1,18 @@
-# Wall Sign\n
-TextId: wall_sign\n
-MinId: 3270\n
-MaxId: 3277\n
-Hardness: 1\n
-Resistance: 1\n
+# Wall Sign
 
-Num States: 8\n
+TextId: wall_sign
+
+MinId: 3270
+
+MaxId: 3277
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

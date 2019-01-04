@@ -1,11 +1,18 @@
-# Acacia Stairs\n
-TextId: acacia_stairs\n
-MinId: 6333\n
-MaxId: 6412\n
-Hardness: 2\n
-Resistance: 3\n
+# Acacia Stairs
 
-Num States: 80\n
+TextId: acacia_stairs
+
+MinId: 6333
+
+MaxId: 6412
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 80
+
 # States
 ```
 Name: facing

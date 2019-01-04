@@ -1,11 +1,18 @@
-# Oxeye Daisy\n
-TextId: oxeye_daisy\n
-MinId: 1120\n
-MaxId: 1120\n
-Hardness: 0\n
-Resistance: 0\n
+# Oxeye Daisy
 
-Num States: 1\n
+TextId: oxeye_daisy
+
+MinId: 1120
+
+MaxId: 1120
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

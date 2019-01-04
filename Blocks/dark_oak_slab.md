@@ -1,11 +1,18 @@
-# Dark Oak Slab\n
-TextId: dark_oak_slab\n
-MinId: 7288\n
-MaxId: 7293\n
-Hardness: 2\n
-Resistance: 3\n
+# Dark Oak Slab
 
-Num States: 6\n
+TextId: dark_oak_slab
+
+MinId: 7288
+
+MaxId: 7293
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 6
+
 # States
 ```
 Name: type

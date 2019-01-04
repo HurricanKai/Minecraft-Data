@@ -1,11 +1,18 @@
-# Pink Concrete Powder\n
-TextId: pink_concrete_powder\n
-MinId: 8400\n
-MaxId: 8400\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Pink Concrete Powder
 
-Num States: 1\n
+TextId: pink_concrete_powder
+
+MinId: 8400
+
+MaxId: 8400
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

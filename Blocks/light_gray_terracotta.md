@@ -1,11 +1,18 @@
-# Light Gray Terracotta\n
-TextId: light_gray_terracotta\n
-MinId: 5813\n
-MaxId: 5813\n
-Hardness: 1,25\n
-Resistance: 4,2\n
+# Light Gray Terracotta
 
-Num States: 1\n
+TextId: light_gray_terracotta
+
+MinId: 5813
+
+MaxId: 5813
+
+Hardness: 1,25
+
+Resistance: 4,2
+
+
+Num States: 1
+
 # States
 ```
 

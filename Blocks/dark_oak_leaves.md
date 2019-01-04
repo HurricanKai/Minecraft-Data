@@ -1,11 +1,18 @@
-# Dark Oak Leaves\n
-TextId: dark_oak_leaves\n
-MinId: 214\n
-MaxId: 227\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Dark Oak Leaves
 
-Num States: 14\n
+TextId: dark_oak_leaves
+
+MinId: 214
+
+MaxId: 227
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 14
+
 # States
 ```
 Name: distance

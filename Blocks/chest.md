@@ -1,11 +1,18 @@
-# Chest\n
-TextId: chest\n
-MinId: 1729\n
-MaxId: 1752\n
-Hardness: 2,5\n
-Resistance: 2,5\n
+# Chest
 
-Num States: 24\n
+TextId: chest
+
+MinId: 1729
+
+MaxId: 1752
+
+Hardness: 2,5
+
+Resistance: 2,5
+
+
+Num States: 24
+
 # States
 ```
 Name: facing

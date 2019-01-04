@@ -1,11 +1,18 @@
-# Large Fern\n
-TextId: large_fern\n
-MinId: 6853\n
-MaxId: 6854\n
-Hardness: 0\n
-Resistance: 0\n
+# Large Fern
 
-Num States: 2\n
+TextId: large_fern
+
+MinId: 6853
+
+MaxId: 6854
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: half

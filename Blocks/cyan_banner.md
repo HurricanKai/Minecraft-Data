@@ -1,11 +1,18 @@
-# Cyan Banner\n
-TextId: cyan_banner\n
-MinId: 6999\n
-MaxId: 7014\n
-Hardness: 1\n
-Resistance: 1\n
+# Cyan Banner
 
-Num States: 16\n
+TextId: cyan_banner
+
+MinId: 6999
+
+MaxId: 7014
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

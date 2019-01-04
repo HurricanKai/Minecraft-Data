@@ -1,11 +1,18 @@
-# Lapis Lazuli Ore\n
-TextId: lapis_ore\n
-MinId: 231\n
-MaxId: 231\n
-Hardness: 3\n
-Resistance: 3\n
+# Lapis Lazuli Ore
 
-Num States: 1\n
+TextId: lapis_ore
+
+MinId: 231
+
+MaxId: 231
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

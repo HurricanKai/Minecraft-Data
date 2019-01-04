@@ -1,11 +1,18 @@
-# Iron Door\n
-TextId: iron_door\n
-MinId: 3304\n
-MaxId: 3367\n
-Hardness: 5\n
-Resistance: 5\n
+# Iron Door
 
-Num States: 64\n
+TextId: iron_door
+
+MinId: 3304
+
+MaxId: 3367
+
+Hardness: 5
+
+Resistance: 5
+
+
+Num States: 64
+
 # States
 ```
 Name: half

@@ -1,11 +1,18 @@
-# Oak Sapling\n
-TextId: oak_sapling\n
-MinId: 21\n
-MaxId: 22\n
-Hardness: 0\n
-Resistance: 0\n
+# Oak Sapling
 
-Num States: 2\n
+TextId: oak_sapling
+
+MinId: 21
+
+MaxId: 22
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: stage

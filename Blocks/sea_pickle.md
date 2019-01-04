@@ -1,11 +1,18 @@
-# Sea Pickle\n
-TextId: sea_pickle\n
-MinId: 8580\n
-MaxId: 8587\n
-Hardness: \n
-Resistance: \n
+# Sea Pickle
 
-Num States: 8\n
+TextId: sea_pickle
+
+MinId: 8580
+
+MaxId: 8587
+
+Hardness: 
+
+Resistance: 
+
+
+Num States: 8
+
 # States
 ```
 Name: pickles

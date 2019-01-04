@@ -1,11 +1,18 @@
-# Red Mushroom\n
-TextId: red_mushroom\n
-MinId: 1122\n
-MaxId: 1122\n
-Hardness: 0\n
-Resistance: 0\n
+# Red Mushroom
 
-Num States: 1\n
+TextId: red_mushroom
+
+MinId: 1122
+
+MaxId: 1122
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

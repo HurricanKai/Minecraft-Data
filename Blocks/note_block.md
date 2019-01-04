@@ -1,11 +1,18 @@
-# Note Block\n
-TextId: note_block\n
-MinId: 248\n
-MaxId: 747\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Note Block
 
-Num States: 500\n
+TextId: note_block
+
+MinId: 248
+
+MaxId: 747
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 500
+
 # States
 ```
 Name: instrument

@@ -1,11 +1,18 @@
-# Repeating Command Block\n
-TextId: repeating_command_block\n
-MinId: 8165\n
-MaxId: 8176\n
-Hardness: -1\n
-Resistance: 3600000\n
+# Repeating Command Block
 
-Num States: 12\n
+TextId: repeating_command_block
+
+MinId: 8165
+
+MaxId: 8176
+
+Hardness: -1
+
+Resistance: 3600000
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

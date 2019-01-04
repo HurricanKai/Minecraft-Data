@@ -1,11 +1,18 @@
-# Nether Quartz Ore\n
-TextId: nether_quartz_ore\n
-MinId: 5685\n
-MaxId: 5685\n
-Hardness: 3\n
-Resistance: 3\n
+# Nether Quartz Ore
 
-Num States: 1\n
+TextId: nether_quartz_ore
+
+MinId: 5685
+
+MaxId: 5685
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

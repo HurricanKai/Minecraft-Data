@@ -1,11 +1,18 @@
-# Brown Concrete Powder\n
-TextId: brown_concrete_powder\n
-MinId: 8406\n
-MaxId: 8406\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Brown Concrete Powder
 
-Num States: 1\n
+TextId: brown_concrete_powder
+
+MinId: 8406
+
+MaxId: 8406
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

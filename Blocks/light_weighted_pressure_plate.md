@@ -1,11 +1,18 @@
-# Light Weighted Pressure Plate\n
-TextId: light_weighted_pressure_plate\n
-MinId: 5604\n
-MaxId: 5619\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Light Weighted Pressure Plate
 
-Num States: 16\n
+TextId: light_weighted_pressure_plate
+
+MinId: 5604
+
+MaxId: 5619
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 16
+
 # States
 ```
 Name: power

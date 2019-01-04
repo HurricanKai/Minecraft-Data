@@ -1,11 +1,18 @@
-# Infested Cobblestone\n
-TextId: infested_cobblestone\n
-MinId: 3979\n
-MaxId: 3979\n
-Hardness: 0\n
-Resistance: 0,75\n
+# Infested Cobblestone
 
-Num States: 1\n
+TextId: infested_cobblestone
+
+MinId: 3979
+
+MaxId: 3979
+
+Hardness: 0
+
+Resistance: 0,75
+
+
+Num States: 1
+
 # States
 ```
 

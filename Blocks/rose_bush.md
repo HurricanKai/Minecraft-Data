@@ -1,11 +1,18 @@
-# Rose Bush\n
-TextId: rose_bush\n
-MinId: 6847\n
-MaxId: 6848\n
-Hardness: 0\n
-Resistance: 0\n
+# Rose Bush
 
-Num States: 2\n
+TextId: rose_bush
+
+MinId: 6847
+
+MaxId: 6848
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: half

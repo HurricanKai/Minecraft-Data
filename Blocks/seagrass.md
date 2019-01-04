@@ -1,11 +1,18 @@
-# Seagrass\n
-TextId: seagrass\n
-MinId: 1044\n
-MaxId: 1044\n
-Hardness: 0\n
-Resistance: 0\n
+# Seagrass
 
-Num States: 1\n
+TextId: seagrass
+
+MinId: 1044
+
+MaxId: 1044
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

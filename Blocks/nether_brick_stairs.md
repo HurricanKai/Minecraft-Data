@@ -1,11 +1,18 @@
-# Nether Brick Stairs\n
-TextId: nether_brick_stairs\n
-MinId: 4529\n
-MaxId: 4608\n
-Hardness: 2\n
-Resistance: 6\n
+# Nether Brick Stairs
 
-Num States: 80\n
+TextId: nether_brick_stairs
+
+MinId: 4529
+
+MaxId: 4608
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 80
+
 # States
 ```
 Name: facing

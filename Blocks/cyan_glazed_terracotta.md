@@ -1,11 +1,18 @@
-# Cyan Glazed Terracotta\n
-TextId: cyan_glazed_terracotta\n
-MinId: 8350\n
-MaxId: 8353\n
-Hardness: 1,4\n
-Resistance: 1,4\n
+# Cyan Glazed Terracotta
 
-Num States: 4\n
+TextId: cyan_glazed_terracotta
+
+MinId: 8350
+
+MaxId: 8353
+
+Hardness: 1,4
+
+Resistance: 1,4
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

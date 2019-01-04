@@ -1,11 +1,18 @@
-# Potted Jungle Sapling\n
-TextId: potted_jungle_sapling\n
-MinId: 5270\n
-MaxId: 5270\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Jungle Sapling
 
-Num States: 1\n
+TextId: potted_jungle_sapling
+
+MinId: 5270
+
+MaxId: 5270
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

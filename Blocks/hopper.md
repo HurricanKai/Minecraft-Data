@@ -1,11 +1,18 @@
-# Hopper\n
-TextId: hopper\n
-MinId: 5686\n
-MaxId: 5695\n
-Hardness: 3\n
-Resistance: 4,8\n
+# Hopper
 
-Num States: 10\n
+TextId: hopper
+
+MinId: 5686
+
+MaxId: 5695
+
+Hardness: 3
+
+Resistance: 4,8
+
+
+Num States: 10
+
 # States
 ```
 Name: facing

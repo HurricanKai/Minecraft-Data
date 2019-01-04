@@ -1,11 +1,18 @@
-# Light Blue Bed\n
-TextId: light_blue_bed\n
-MinId: 796\n
-MaxId: 811\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Light Blue Bed
 
-Num States: 16\n
+TextId: light_blue_bed
+
+MinId: 796
+
+MaxId: 811
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

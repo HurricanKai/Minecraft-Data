@@ -1,11 +1,18 @@
-# End Rod\n
-TextId: end_rod\n
-MinId: 7998\n
-MaxId: 8003\n
-Hardness: 0\n
-Resistance: 0\n
+# End Rod
 
-Num States: 6\n
+TextId: end_rod
+
+MinId: 7998
+
+MaxId: 8003
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 6
+
 # States
 ```
 Name: facing

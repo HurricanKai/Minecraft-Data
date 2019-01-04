@@ -1,11 +1,18 @@
-# Stone Bricks\n
-TextId: stone_bricks\n
-MinId: 3984\n
-MaxId: 3984\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Stone Bricks
 
-Num States: 1\n
+TextId: stone_bricks
+
+MinId: 3984
+
+MaxId: 3984
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

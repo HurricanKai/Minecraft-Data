@@ -1,11 +1,18 @@
-# Lime Carpet\n
-TextId: lime_carpet\n
-MinId: 6829\n
-MaxId: 6829\n
-Hardness: 0,1\n
-Resistance: 0,1\n
+# Lime Carpet
 
-Num States: 1\n
+TextId: lime_carpet
+
+MinId: 6829
+
+MaxId: 6829
+
+Hardness: 0,1
+
+Resistance: 0,1
+
+
+Num States: 1
+
 # States
 ```
 

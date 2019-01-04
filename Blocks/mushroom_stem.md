@@ -1,11 +1,18 @@
-# Mushroom Stem\n
-TextId: mushroom_stem\n
-MinId: 4116\n
-MaxId: 4179\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Mushroom Stem
 
-Num States: 64\n
+TextId: mushroom_stem
+
+MinId: 4116
+
+MaxId: 4179
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 64
+
 # States
 ```
 Name: up

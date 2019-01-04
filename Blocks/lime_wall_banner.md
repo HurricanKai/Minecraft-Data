@@ -1,11 +1,18 @@
-# \n
-TextId: lime_wall_banner\n
-MinId: 7131\n
-MaxId: 7134\n
-Hardness: 1\n
-Resistance: 1\n
+# 
 
-Num States: 4\n
+TextId: lime_wall_banner
+
+MinId: 7131
+
+MaxId: 7134
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

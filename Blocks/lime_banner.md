@@ -1,11 +1,18 @@
-# Lime Banner\n
-TextId: lime_banner\n
-MinId: 6935\n
-MaxId: 6950\n
-Hardness: 1\n
-Resistance: 1\n
+# Lime Banner
 
-Num States: 16\n
+TextId: lime_banner
+
+MinId: 6935
+
+MaxId: 6950
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

@@ -1,11 +1,18 @@
-# Redstone Repeater\n
-TextId: repeater\n
-MinId: 3514\n
-MaxId: 3577\n
-Hardness: 0\n
-Resistance: 0\n
+# Redstone Repeater
 
-Num States: 64\n
+TextId: repeater
+
+MinId: 3514
+
+MaxId: 3577
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 64
+
 # States
 ```
 Name: facing

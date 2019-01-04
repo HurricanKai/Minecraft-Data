@@ -1,11 +1,18 @@
-# Iron Ore\n
-TextId: iron_ore\n
-MinId: 70\n
-MaxId: 70\n
-Hardness: 3\n
-Resistance: 3\n
+# Iron Ore
 
-Num States: 1\n
+TextId: iron_ore
+
+MinId: 70
+
+MaxId: 70
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

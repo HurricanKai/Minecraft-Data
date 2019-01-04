@@ -1,11 +1,18 @@
-# Creeper Wall Head\n
-TextId: creeper_wall_head\n
-MinId: 5528\n
-MaxId: 5531\n
-Hardness: 1\n
-Resistance: 1\n
+# Creeper Wall Head
 
-Num States: 4\n
+TextId: creeper_wall_head
+
+MinId: 5528
+
+MaxId: 5531
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

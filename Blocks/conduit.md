@@ -1,11 +1,18 @@
-# Conduit\n
-TextId: conduit\n
-MinId: 8589\n
-MaxId: 8590\n
-Hardness: 3\n
-Resistance: 3\n
+# Conduit
 
-Num States: 2\n
+TextId: conduit
+
+MinId: 8589
+
+MaxId: 8590
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

@@ -1,11 +1,18 @@
-# Stripped Birch Wood\n
-TextId: stripped_birch_wood\n
-MinId: 132\n
-MaxId: 134\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Birch Wood
 
-Num States: 3\n
+TextId: stripped_birch_wood
+
+MinId: 132
+
+MaxId: 134
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

@@ -1,11 +1,18 @@
-# Gold Ore\n
-TextId: gold_ore\n
-MinId: 69\n
-MaxId: 69\n
-Hardness: 3\n
-Resistance: 3\n
+# Gold Ore
 
-Num States: 1\n
+TextId: gold_ore
+
+MinId: 69
+
+MaxId: 69
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

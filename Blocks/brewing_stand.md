@@ -1,11 +1,18 @@
-# Brewing Stand\n
-TextId: brewing_stand\n
-MinId: 4614\n
-MaxId: 4621\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Brewing Stand
 
-Num States: 8\n
+TextId: brewing_stand
+
+MinId: 4614
+
+MaxId: 4621
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 8
+
 # States
 ```
 Name: has_bottle_0

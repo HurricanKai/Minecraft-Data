@@ -1,11 +1,18 @@
-# Cyan Terracotta\n
-TextId: cyan_terracotta\n
-MinId: 5814\n
-MaxId: 5814\n
-Hardness: 1,25\n
-Resistance: 4,2\n
+# Cyan Terracotta
 
-Num States: 1\n
+TextId: cyan_terracotta
+
+MinId: 5814
+
+MaxId: 5814
+
+Hardness: 1,25
+
+Resistance: 4,2
+
+
+Num States: 1
+
 # States
 ```
 

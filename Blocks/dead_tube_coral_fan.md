@@ -1,11 +1,18 @@
-# Dead Tube Coral Fan\n
-TextId: dead_tube_coral_fan\n
-MinId: 8560\n
-MaxId: 8561\n
-Hardness: 0\n
-Resistance: 0\n
+# Dead Tube Coral Fan
 
-Num States: 2\n
+TextId: dead_tube_coral_fan
+
+MinId: 8560
+
+MaxId: 8561
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

@@ -1,11 +1,18 @@
-# Chorus Flower\n
-TextId: chorus_flower\n
-MinId: 8068\n
-MaxId: 8073\n
-Hardness: 0,4\n
-Resistance: 0,4\n
+# Chorus Flower
 
-Num States: 6\n
+TextId: chorus_flower
+
+MinId: 8068
+
+MaxId: 8073
+
+Hardness: 0,4
+
+Resistance: 0,4
+
+
+Num States: 6
+
 # States
 ```
 Name: age

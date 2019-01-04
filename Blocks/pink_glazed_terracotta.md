@@ -1,11 +1,18 @@
-# Pink Glazed Terracotta\n
-TextId: pink_glazed_terracotta\n
-MinId: 8338\n
-MaxId: 8341\n
-Hardness: 1,4\n
-Resistance: 1,4\n
+# Pink Glazed Terracotta
 
-Num States: 4\n
+TextId: pink_glazed_terracotta
+
+MinId: 8338
+
+MaxId: 8341
+
+Hardness: 1,4
+
+Resistance: 1,4
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

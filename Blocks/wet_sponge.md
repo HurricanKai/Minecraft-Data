@@ -1,11 +1,18 @@
-# Wet Sponge\n
-TextId: wet_sponge\n
-MinId: 229\n
-MaxId: 229\n
-Hardness: 0,6\n
-Resistance: 0,6\n
+# Wet Sponge
 
-Num States: 1\n
+TextId: wet_sponge
+
+MinId: 229
+
+MaxId: 229
+
+Hardness: 0,6
+
+Resistance: 0,6
+
+
+Num States: 1
+
 # States
 ```
 

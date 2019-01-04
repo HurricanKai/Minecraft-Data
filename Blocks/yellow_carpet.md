@@ -1,11 +1,18 @@
-# Yellow Carpet\n
-TextId: yellow_carpet\n
-MinId: 6828\n
-MaxId: 6828\n
-Hardness: 0,1\n
-Resistance: 0,1\n
+# Yellow Carpet
 
-Num States: 1\n
+TextId: yellow_carpet
+
+MinId: 6828
+
+MaxId: 6828
+
+Hardness: 0,1
+
+Resistance: 0,1
+
+
+Num States: 1
+
 # States
 ```
 

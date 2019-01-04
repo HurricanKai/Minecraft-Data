@@ -1,11 +1,18 @@
-# Brown Stained Glass\n
-TextId: brown_stained_glass\n
-MinId: 3590\n
-MaxId: 3590\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Brown Stained Glass
 
-Num States: 1\n
+TextId: brown_stained_glass
+
+MinId: 3590
+
+MaxId: 3590
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

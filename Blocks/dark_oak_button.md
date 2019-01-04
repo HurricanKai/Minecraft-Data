@@ -1,11 +1,18 @@
-# Dark Oak Button\n
-TextId: dark_oak_button\n
-MinId: 5424\n
-MaxId: 5447\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Dark Oak Button
 
-Num States: 24\n
+TextId: dark_oak_button
+
+MinId: 5424
+
+MaxId: 5447
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 24
+
 # States
 ```
 Name: facing

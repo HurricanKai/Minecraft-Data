@@ -1,11 +1,18 @@
-# Tripwire\n
-TextId: tripwire\n
-MinId: 4756\n
-MaxId: 4883\n
-Hardness: \n
-Resistance: \n
+# Tripwire
 
-Num States: 128\n
+TextId: tripwire
+
+MinId: 4756
+
+MaxId: 4883
+
+Hardness: 
+
+Resistance: 
+
+
+Num States: 128
+
 # States
 ```
 Name: powered

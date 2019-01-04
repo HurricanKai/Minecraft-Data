@@ -1,11 +1,18 @@
-# Iron Bars\n
-TextId: iron_bars\n
-MinId: 4180\n
-MaxId: 4211\n
-Hardness: 5\n
-Resistance: 6\n
+# Iron Bars
 
-Num States: 32\n
+TextId: iron_bars
+
+MinId: 4180
+
+MaxId: 4211
+
+Hardness: 5
+
+Resistance: 6
+
+
+Num States: 32
+
 # States
 ```
 Name: north

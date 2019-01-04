@@ -1,11 +1,18 @@
-# Piston\n
-TextId: piston\n
-MinId: 1047\n
-MaxId: 1058\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Piston
 
-Num States: 12\n
+TextId: piston
+
+MinId: 1047
+
+MaxId: 1058
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

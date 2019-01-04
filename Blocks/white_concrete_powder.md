@@ -1,11 +1,18 @@
-# White Concrete Powder\n
-TextId: white_concrete_powder\n
-MinId: 8394\n
-MaxId: 8394\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# White Concrete Powder
 
-Num States: 1\n
+TextId: white_concrete_powder
+
+MinId: 8394
+
+MaxId: 8394
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

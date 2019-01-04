@@ -1,11 +1,18 @@
-# Heavy Weighted Pressure Plate\n
-TextId: heavy_weighted_pressure_plate\n
-MinId: 5620\n
-MaxId: 5635\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Heavy Weighted Pressure Plate
 
-Num States: 16\n
+TextId: heavy_weighted_pressure_plate
+
+MinId: 5620
+
+MaxId: 5635
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 16
+
 # States
 ```
 Name: power

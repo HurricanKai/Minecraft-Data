@@ -1,11 +1,18 @@
-# Beetroots\n
-TextId: beetroots\n
-MinId: 8159\n
-MaxId: 8162\n
-Hardness: 0\n
-Resistance: 0\n
+# Beetroots
 
-Num States: 4\n
+TextId: beetroots
+
+MinId: 8159
+
+MaxId: 8162
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 4
+
 # States
 ```
 Name: age

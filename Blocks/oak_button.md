@@ -1,11 +1,18 @@
-# Oak Button\n
-TextId: oak_button\n
-MinId: 5304\n
-MaxId: 5327\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Oak Button
 
-Num States: 24\n
+TextId: oak_button
+
+MinId: 5304
+
+MaxId: 5327
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 24
+
 # States
 ```
 Name: facing

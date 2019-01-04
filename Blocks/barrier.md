@@ -1,11 +1,18 @@
-# Barrier\n
-TextId: barrier\n
-MinId: 6494\n
-MaxId: 6494\n
-Hardness: -1\n
-Resistance: 3600000,75\n
+# Barrier
 
-Num States: 1\n
+TextId: barrier
+
+MinId: 6494
+
+MaxId: 6494
+
+Hardness: -1
+
+Resistance: 3600000,75
+
+
+Num States: 1
+
 # States
 ```
 

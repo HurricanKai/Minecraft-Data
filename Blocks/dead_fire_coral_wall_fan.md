@@ -1,11 +1,18 @@
-# Dead Fire Coral Wall Fan\n
-TextId: dead_fire_coral_wall_fan\n
-MinId: 8504\n
-MaxId: 8511\n
-Hardness: 0\n
-Resistance: 0\n
+# Dead Fire Coral Wall Fan
 
-Num States: 8\n
+TextId: dead_fire_coral_wall_fan
+
+MinId: 8504
+
+MaxId: 8511
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

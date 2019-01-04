@@ -1,11 +1,18 @@
-# Brown Bed\n
-TextId: brown_bed\n
-MinId: 940\n
-MaxId: 955\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Brown Bed
 
-Num States: 16\n
+TextId: brown_bed
+
+MinId: 940
+
+MaxId: 955
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

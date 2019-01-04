@@ -1,11 +1,18 @@
-# Powered Rail\n
-TextId: powered_rail\n
-MinId: 1004\n
-MaxId: 1015\n
-Hardness: 0,7\n
-Resistance: 0,7\n
+# Powered Rail
 
-Num States: 12\n
+TextId: powered_rail
+
+MinId: 1004
+
+MaxId: 1015
+
+Hardness: 0,7
+
+Resistance: 0,7
+
+
+Num States: 12
+
 # States
 ```
 Name: shape

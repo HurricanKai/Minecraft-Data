@@ -1,11 +1,18 @@
-# Blue Stained Glass\n
-TextId: blue_stained_glass\n
-MinId: 3589\n
-MaxId: 3589\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Blue Stained Glass
 
-Num States: 1\n
+TextId: blue_stained_glass
+
+MinId: 3589
+
+MaxId: 3589
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

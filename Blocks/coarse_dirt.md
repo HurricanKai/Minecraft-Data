@@ -1,11 +1,18 @@
-# Coarse Dirt\n
-TextId: coarse_dirt\n
-MinId: 11\n
-MaxId: 11\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Coarse Dirt
 
-Num States: 1\n
+TextId: coarse_dirt
+
+MinId: 11
+
+MaxId: 11
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

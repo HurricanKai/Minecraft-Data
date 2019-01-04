@@ -1,11 +1,18 @@
-# Skeleton Wall Skull\n
-TextId: skeleton_wall_skull\n
-MinId: 5448\n
-MaxId: 5451\n
-Hardness: 1\n
-Resistance: 1\n
+# Skeleton Wall Skull
 
-Num States: 4\n
+TextId: skeleton_wall_skull
+
+MinId: 5448
+
+MaxId: 5451
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

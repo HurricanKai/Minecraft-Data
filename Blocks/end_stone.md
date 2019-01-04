@@ -1,11 +1,18 @@
-# End Stone\n
-TextId: end_stone\n
-MinId: 4635\n
-MaxId: 4635\n
-Hardness: 3\n
-Resistance: 9\n
+# End Stone
 
-Num States: 1\n
+TextId: end_stone
+
+MinId: 4635
+
+MaxId: 4635
+
+Hardness: 3
+
+Resistance: 9
+
+
+Num States: 1
+
 # States
 ```
 

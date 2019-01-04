@@ -1,11 +1,18 @@
-# Jack o'Lantern\n
-TextId: jack_o_lantern\n
-MinId: 3503\n
-MaxId: 3506\n
-Hardness: 1\n
-Resistance: 1\n
+# Jack o'Lantern
 
-Num States: 4\n
+TextId: jack_o_lantern
+
+MinId: 3503
+
+MaxId: 3506
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

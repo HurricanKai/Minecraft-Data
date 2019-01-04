@@ -1,11 +1,18 @@
-# Dark Oak Fence Gate\n
-TextId: dark_oak_fence_gate\n
-MinId: 7486\n
-MaxId: 7517\n
-Hardness: 2\n
-Resistance: 3\n
+# Dark Oak Fence Gate
 
-Num States: 32\n
+TextId: dark_oak_fence_gate
+
+MinId: 7486
+
+MaxId: 7517
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 32
+
 # States
 ```
 Name: facing

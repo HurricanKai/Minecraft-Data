@@ -1,11 +1,18 @@
-# Brown Mushroom Block\n
-TextId: brown_mushroom_block\n
-MinId: 3988\n
-MaxId: 4051\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Brown Mushroom Block
 
-Num States: 64\n
+TextId: brown_mushroom_block
+
+MinId: 3988
+
+MaxId: 4051
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 64
+
 # States
 ```
 Name: up

@@ -1,11 +1,18 @@
-# Dandelion\n
-TextId: dandelion\n
-MinId: 1111\n
-MaxId: 1111\n
-Hardness: 0\n
-Resistance: 0\n
+# Dandelion
 
-Num States: 1\n
+TextId: dandelion
+
+MinId: 1111
+
+MaxId: 1111
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

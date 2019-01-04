@@ -1,11 +1,18 @@
-# Red Wool\n
-TextId: red_wool\n
-MinId: 1097\n
-MaxId: 1097\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Red Wool
 
-Num States: 1\n
+TextId: red_wool
+
+MinId: 1097
+
+MaxId: 1097
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Dead Fire Coral Fan\n
-TextId: dead_fire_coral_fan\n
-MinId: 8566\n
-MaxId: 8567\n
-Hardness: 0\n
-Resistance: 0\n
+# Dead Fire Coral Fan
 
-Num States: 2\n
+TextId: dead_fire_coral_fan
+
+MinId: 8566
+
+MaxId: 8567
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

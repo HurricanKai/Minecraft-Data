@@ -1,11 +1,18 @@
-# Air\n
-TextId: air\n
-MinId: 0\n
-MaxId: 0\n
-Hardness: \n
-Resistance: \n
+# Air
 
-Num States: 1\n
+TextId: air
+
+MinId: 0
+
+MaxId: 0
+
+Hardness: 
+
+Resistance: 
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Jungle Log\n
-TextId: jungle_log\n
-MinId: 81\n
-MaxId: 83\n
-Hardness: 2\n
-Resistance: 2\n
+# Jungle Log
 
-Num States: 3\n
+TextId: jungle_log
+
+MinId: 81
+
+MaxId: 83
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

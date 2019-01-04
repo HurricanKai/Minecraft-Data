@@ -1,11 +1,18 @@
-# Brick Stairs\n
-TextId: brick_stairs\n
-MinId: 4333\n
-MaxId: 4412\n
-Hardness: 2\n
-Resistance: 6\n
+# Brick Stairs
 
-Num States: 80\n
+TextId: brick_stairs
+
+MinId: 4333
+
+MaxId: 4412
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 80
+
 # States
 ```
 Name: facing

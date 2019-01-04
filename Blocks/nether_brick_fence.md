@@ -1,11 +1,18 @@
-# Nether Brick Fence\n
-TextId: nether_brick_fence\n
-MinId: 4497\n
-MaxId: 4528\n
-Hardness: 2\n
-Resistance: 6\n
+# Nether Brick Fence
 
-Num States: 32\n
+TextId: nether_brick_fence
+
+MinId: 4497
+
+MaxId: 4528
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 32
+
 # States
 ```
 Name: north

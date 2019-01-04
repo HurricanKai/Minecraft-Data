@@ -1,11 +1,18 @@
-# Allium\n
-TextId: allium\n
-MinId: 1114\n
-MaxId: 1114\n
-Hardness: 0\n
-Resistance: 0\n
+# Allium
 
-Num States: 1\n
+TextId: allium
+
+MinId: 1114
+
+MaxId: 1114
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

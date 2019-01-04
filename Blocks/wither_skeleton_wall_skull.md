@@ -1,11 +1,18 @@
-# Wither Skeleton Wall Skull\n
-TextId: wither_skeleton_wall_skull\n
-MinId: 5468\n
-MaxId: 5471\n
-Hardness: 1\n
-Resistance: 1\n
+# Wither Skeleton Wall Skull
 
-Num States: 4\n
+TextId: wither_skeleton_wall_skull
+
+MinId: 5468
+
+MaxId: 5471
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

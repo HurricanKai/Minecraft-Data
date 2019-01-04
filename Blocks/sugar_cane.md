@@ -1,11 +1,18 @@
-# Sugar Cane\n
-TextId: sugar_cane\n
-MinId: 3443\n
-MaxId: 3458\n
-Hardness: 0\n
-Resistance: 0\n
+# Sugar Cane
 
-Num States: 16\n
+TextId: sugar_cane
+
+MinId: 3443
+
+MaxId: 3458
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 16
+
 # States
 ```
 Name: age

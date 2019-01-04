@@ -1,11 +1,18 @@
-# Pink Terracotta\n
-TextId: pink_terracotta\n
-MinId: 5811\n
-MaxId: 5811\n
-Hardness: 1,25\n
-Resistance: 4,2\n
+# Pink Terracotta
 
-Num States: 1\n
+TextId: pink_terracotta
+
+MinId: 5811
+
+MaxId: 5811
+
+Hardness: 1,25
+
+Resistance: 4,2
+
+
+Num States: 1
+
 # States
 ```
 

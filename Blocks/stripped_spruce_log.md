@@ -1,11 +1,18 @@
-# Stripped Spruce Log\n
-TextId: stripped_spruce_log\n
-MinId: 90\n
-MaxId: 92\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Spruce Log
 
-Num States: 3\n
+TextId: stripped_spruce_log
+
+MinId: 90
+
+MaxId: 92
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

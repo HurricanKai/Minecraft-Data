@@ -1,11 +1,18 @@
-# Spawner\n
-TextId: spawner\n
-MinId: 1648\n
-MaxId: 1648\n
-Hardness: 5\n
-Resistance: 5\n
+# Spawner
 
-Num States: 1\n
+TextId: spawner
+
+MinId: 1648
+
+MaxId: 1648
+
+Hardness: 5
+
+Resistance: 5
+
+
+Num States: 1
+
 # States
 ```
 

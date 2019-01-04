@@ -1,11 +1,18 @@
-# Purple Stained Glass Pane\n
-TextId: purple_stained_glass_pane\n
-MinId: 6141\n
-MaxId: 6172\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Purple Stained Glass Pane
 
-Num States: 32\n
+TextId: purple_stained_glass_pane
+
+MinId: 6141
+
+MaxId: 6172
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 32
+
 # States
 ```
 Name: north

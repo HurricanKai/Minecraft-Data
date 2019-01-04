@@ -1,11 +1,18 @@
-# Pink Banner\n
-TextId: pink_banner\n
-MinId: 6951\n
-MaxId: 6966\n
-Hardness: 1\n
-Resistance: 1\n
+# Pink Banner
 
-Num States: 16\n
+TextId: pink_banner
+
+MinId: 6951
+
+MaxId: 6966
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

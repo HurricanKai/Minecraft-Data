@@ -1,11 +1,18 @@
-# Blue Orchid\n
-TextId: blue_orchid\n
-MinId: 1113\n
-MaxId: 1113\n
-Hardness: 0\n
-Resistance: 0\n
+# Blue Orchid
 
-Num States: 1\n
+TextId: blue_orchid
+
+MinId: 1113
+
+MaxId: 1113
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

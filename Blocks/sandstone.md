@@ -1,11 +1,18 @@
-# Sandstone\n
-TextId: sandstone\n
-MinId: 245\n
-MaxId: 245\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Sandstone
 
-Num States: 1\n
+TextId: sandstone
+
+MinId: 245
+
+MaxId: 245
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Player Head\n
-TextId: player_head\n
-MinId: 5512\n
-MaxId: 5527\n
-Hardness: 1\n
-Resistance: 1\n
+# Player Head
 
-Num States: 16\n
+TextId: player_head
+
+MinId: 5512
+
+MaxId: 5527
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

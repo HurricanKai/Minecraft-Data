@@ -1,11 +1,18 @@
-# Purple Concrete Powder\n
-TextId: purple_concrete_powder\n
-MinId: 8404\n
-MaxId: 8404\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Purple Concrete Powder
 
-Num States: 1\n
+TextId: purple_concrete_powder
+
+MinId: 8404
+
+MaxId: 8404
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 1
+
 # States
 ```
 

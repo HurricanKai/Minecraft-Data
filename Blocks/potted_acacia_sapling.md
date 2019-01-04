@@ -1,11 +1,18 @@
-# Potted Acacia Sapling\n
-TextId: potted_acacia_sapling\n
-MinId: 5271\n
-MaxId: 5271\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Acacia Sapling
 
-Num States: 1\n
+TextId: potted_acacia_sapling
+
+MinId: 5271
+
+MaxId: 5271
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

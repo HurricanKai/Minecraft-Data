@@ -1,11 +1,18 @@
-# Spruce Door\n
-TextId: spruce_door\n
-MinId: 7678\n
-MaxId: 7741\n
-Hardness: 3\n
-Resistance: 3\n
+# Spruce Door
 
-Num States: 64\n
+TextId: spruce_door
+
+MinId: 7678
+
+MaxId: 7741
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 64
+
 # States
 ```
 Name: half

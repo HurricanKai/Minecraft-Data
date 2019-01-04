@@ -1,11 +1,18 @@
-# Kelp\n
-TextId: kelp\n
-MinId: 8410\n
-MaxId: 8435\n
-Hardness: 0\n
-Resistance: 0\n
+# Kelp
 
-Num States: 26\n
+TextId: kelp
+
+MinId: 8410
+
+MaxId: 8435
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 26
+
 # States
 ```
 Name: age

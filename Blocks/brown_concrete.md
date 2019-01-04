@@ -1,11 +1,18 @@
-# Brown Concrete\n
-TextId: brown_concrete\n
-MinId: 8390\n
-MaxId: 8390\n
-Hardness: 1,8\n
-Resistance: 1,8\n
+# Brown Concrete
 
-Num States: 1\n
+TextId: brown_concrete
+
+MinId: 8390
+
+MaxId: 8390
+
+Hardness: 1,8
+
+Resistance: 1,8
+
+
+Num States: 1
+
 # States
 ```
 

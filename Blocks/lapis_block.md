@@ -1,11 +1,18 @@
-# Lapis Lazuli Block\n
-TextId: lapis_block\n
-MinId: 232\n
-MaxId: 232\n
-Hardness: 3\n
-Resistance: 3\n
+# Lapis Lazuli Block
 
-Num States: 1\n
+TextId: lapis_block
+
+MinId: 232
+
+MaxId: 232
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

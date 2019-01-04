@@ -1,11 +1,18 @@
-# Spruce Slab\n
-TextId: spruce_slab\n
-MinId: 7264\n
-MaxId: 7269\n
-Hardness: 2\n
-Resistance: 3\n
+# Spruce Slab
 
-Num States: 6\n
+TextId: spruce_slab
+
+MinId: 7264
+
+MaxId: 7269
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 6
+
 # States
 ```
 Name: type

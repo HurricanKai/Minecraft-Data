@@ -1,11 +1,18 @@
-# Pink Wool\n
-TextId: pink_wool\n
-MinId: 1089\n
-MaxId: 1089\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Pink Wool
 
-Num States: 1\n
+TextId: pink_wool
+
+MinId: 1089
+
+MaxId: 1089
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

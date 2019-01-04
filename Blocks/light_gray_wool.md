@@ -1,11 +1,18 @@
-# Light Gray Wool\n
-TextId: light_gray_wool\n
-MinId: 1091\n
-MaxId: 1091\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Light Gray Wool
 
-Num States: 1\n
+TextId: light_gray_wool
+
+MinId: 1091
+
+MaxId: 1091
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Creeper Head\n
-TextId: creeper_head\n
-MinId: 5532\n
-MaxId: 5547\n
-Hardness: 1\n
-Resistance: 1\n
+# Creeper Head
 
-Num States: 16\n
+TextId: creeper_head
+
+MinId: 5532
+
+MaxId: 5547
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

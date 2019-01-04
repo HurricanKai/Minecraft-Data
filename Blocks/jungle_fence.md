@@ -1,11 +1,18 @@
-# Jungle Fence\n
-TextId: jungle_fence\n
-MinId: 7582\n
-MaxId: 7613\n
-Hardness: 2\n
-Resistance: 3\n
+# Jungle Fence
 
-Num States: 32\n
+TextId: jungle_fence
+
+MinId: 7582
+
+MaxId: 7613
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 32
+
 # States
 ```
 Name: north

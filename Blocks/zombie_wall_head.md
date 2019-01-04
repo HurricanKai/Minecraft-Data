@@ -1,11 +1,18 @@
-# Zombie Wall Head\n
-TextId: zombie_wall_head\n
-MinId: 5488\n
-MaxId: 5491\n
-Hardness: 1\n
-Resistance: 1\n
+# Zombie Wall Head
 
-Num States: 4\n
+TextId: zombie_wall_head
+
+MinId: 5488
+
+MaxId: 5491
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

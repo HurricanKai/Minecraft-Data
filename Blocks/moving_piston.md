@@ -1,11 +1,18 @@
-# Moving Piston\n
-TextId: moving_piston\n
-MinId: 1099\n
-MaxId: 1110\n
-Hardness: -1\n
-Resistance: -1\n
+# Moving Piston
 
-Num States: 12\n
+TextId: moving_piston
+
+MinId: 1099
+
+MaxId: 1110
+
+Hardness: -1
+
+Resistance: -1
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

@@ -1,11 +1,18 @@
-# Black Glazed Terracotta\n
-TextId: black_glazed_terracotta\n
-MinId: 8374\n
-MaxId: 8377\n
-Hardness: 1,4\n
-Resistance: 1,4\n
+# Black Glazed Terracotta
 
-Num States: 4\n
+TextId: black_glazed_terracotta
+
+MinId: 8374
+
+MaxId: 8377
+
+Hardness: 1,4
+
+Resistance: 1,4
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

@@ -1,11 +1,18 @@
-# Gray Carpet\n
-TextId: gray_carpet\n
-MinId: 6831\n
-MaxId: 6831\n
-Hardness: 0,1\n
-Resistance: 0,1\n
+# Gray Carpet
 
-Num States: 1\n
+TextId: gray_carpet
+
+MinId: 6831
+
+MaxId: 6831
+
+Hardness: 0,1
+
+Resistance: 0,1
+
+
+Num States: 1
+
 # States
 ```
 

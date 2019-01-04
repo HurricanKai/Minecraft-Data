@@ -1,11 +1,18 @@
-# Purple Bed\n
-TextId: purple_bed\n
-MinId: 908\n
-MaxId: 923\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Purple Bed
 
-Num States: 16\n
+TextId: purple_bed
+
+MinId: 908
+
+MaxId: 923
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

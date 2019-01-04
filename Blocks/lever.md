@@ -1,11 +1,18 @@
-# Lever\n
-TextId: lever\n
-MinId: 3278\n
-MaxId: 3301\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Lever
 
-Num States: 24\n
+TextId: lever
+
+MinId: 3278
+
+MaxId: 3301
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 24
+
 # States
 ```
 Name: face

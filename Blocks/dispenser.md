@@ -1,11 +1,18 @@
-# Dispenser\n
-TextId: dispenser\n
-MinId: 233\n
-MaxId: 244\n
-Hardness: 3,5\n
-Resistance: 3,5\n
+# Dispenser
 
-Num States: 12\n
+TextId: dispenser
+
+MinId: 233
+
+MaxId: 244
+
+Hardness: 3,5
+
+Resistance: 3,5
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

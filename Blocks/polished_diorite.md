@@ -1,11 +1,18 @@
-# Polished Diorite\n
-TextId: polished_diorite\n
-MinId: 5\n
-MaxId: 5\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Polished Diorite
 
-Num States: 1\n
+TextId: polished_diorite
+
+MinId: 5
+
+MaxId: 5
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

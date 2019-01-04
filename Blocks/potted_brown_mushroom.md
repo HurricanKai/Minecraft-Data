@@ -1,11 +1,18 @@
-# Potted Brown Mushroom\n
-TextId: potted_brown_mushroom\n
-MinId: 5285\n
-MaxId: 5285\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Brown Mushroom
 
-Num States: 1\n
+TextId: potted_brown_mushroom
+
+MinId: 5285
+
+MaxId: 5285
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

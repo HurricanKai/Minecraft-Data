@@ -1,11 +1,18 @@
-# Nether Wart Block\n
-TextId: nether_wart_block\n
-MinId: 8194\n
-MaxId: 8194\n
-Hardness: 1\n
-Resistance: 1\n
+# Nether Wart Block
 
-Num States: 1\n
+TextId: nether_wart_block
+
+MinId: 8194
+
+MaxId: 8194
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 1
+
 # States
 ```
 

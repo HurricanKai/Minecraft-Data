@@ -1,11 +1,18 @@
-# Tube Coral\n
-TextId: tube_coral\n
-MinId: 8470\n
-MaxId: 8471\n
-Hardness: 0\n
-Resistance: 0\n
+# Tube Coral
 
-Num States: 2\n
+TextId: tube_coral
+
+MinId: 8470
+
+MaxId: 8471
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

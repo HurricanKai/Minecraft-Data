@@ -1,11 +1,18 @@
-# Chiseled Sandstone\n
-TextId: chiseled_sandstone\n
-MinId: 246\n
-MaxId: 246\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Chiseled Sandstone
 
-Num States: 1\n
+TextId: chiseled_sandstone
+
+MinId: 246
+
+MaxId: 246
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

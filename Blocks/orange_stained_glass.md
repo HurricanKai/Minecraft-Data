@@ -1,11 +1,18 @@
-# Orange Stained Glass\n
-TextId: orange_stained_glass\n
-MinId: 3579\n
-MaxId: 3579\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Orange Stained Glass
 
-Num States: 1\n
+TextId: orange_stained_glass
+
+MinId: 3579
+
+MaxId: 3579
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Mossy Stone Bricks\n
-TextId: mossy_stone_bricks\n
-MinId: 3985\n
-MaxId: 3985\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Mossy Stone Bricks
 
-Num States: 1\n
+TextId: mossy_stone_bricks
+
+MinId: 3985
+
+MaxId: 3985
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

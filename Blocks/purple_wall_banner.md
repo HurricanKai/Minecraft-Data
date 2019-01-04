@@ -1,11 +1,18 @@
-# \n
-TextId: purple_wall_banner\n
-MinId: 7151\n
-MaxId: 7154\n
-Hardness: 1\n
-Resistance: 1\n
+# 
 
-Num States: 4\n
+TextId: purple_wall_banner
+
+MinId: 7151
+
+MaxId: 7154
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

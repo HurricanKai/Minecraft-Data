@@ -1,11 +1,18 @@
-# Pink Bed\n
-TextId: pink_bed\n
-MinId: 844\n
-MaxId: 859\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Pink Bed
 
-Num States: 16\n
+TextId: pink_bed
+
+MinId: 844
+
+MaxId: 859
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

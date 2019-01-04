@@ -1,11 +1,18 @@
-# Red Sandstone Stairs\n
-TextId: red_sandstone_stairs\n
-MinId: 7178\n
-MaxId: 7257\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Red Sandstone Stairs
 
-Num States: 80\n
+TextId: red_sandstone_stairs
+
+MinId: 7178
+
+MaxId: 7257
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 80
+
 # States
 ```
 Name: facing

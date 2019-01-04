@@ -1,11 +1,18 @@
-# Purple Shulker Box\n
-TextId: purple_shulker_box\n
-MinId: 8278\n
-MaxId: 8283\n
-Hardness: 2\n
-Resistance: 2\n
+# Purple Shulker Box
 
-Num States: 6\n
+TextId: purple_shulker_box
+
+MinId: 8278
+
+MaxId: 8283
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 6
+
 # States
 ```
 Name: facing

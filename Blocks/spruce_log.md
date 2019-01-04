@@ -1,11 +1,18 @@
-# Spruce Log\n
-TextId: spruce_log\n
-MinId: 75\n
-MaxId: 77\n
-Hardness: 2\n
-Resistance: 2\n
+# Spruce Log
 
-Num States: 3\n
+TextId: spruce_log
+
+MinId: 75
+
+MaxId: 77
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

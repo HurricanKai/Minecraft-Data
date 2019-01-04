@@ -1,11 +1,18 @@
-# Yellow Bed\n
-TextId: yellow_bed\n
-MinId: 812\n
-MaxId: 827\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# Yellow Bed
 
-Num States: 16\n
+TextId: yellow_bed
+
+MinId: 812
+
+MaxId: 827
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

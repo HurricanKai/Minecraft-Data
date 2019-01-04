@@ -1,11 +1,18 @@
-# Red Nether Bricks\n
-TextId: red_nether_bricks\n
-MinId: 8195\n
-MaxId: 8195\n
-Hardness: 2\n
-Resistance: 6\n
+# Red Nether Bricks
 
-Num States: 1\n
+TextId: red_nether_bricks
+
+MinId: 8195
+
+MaxId: 8195
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

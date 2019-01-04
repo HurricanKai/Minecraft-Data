@@ -1,11 +1,18 @@
-# Tripwire Hook\n
-TextId: tripwire_hook\n
-MinId: 4740\n
-MaxId: 4755\n
-Hardness: \n
-Resistance: \n
+# Tripwire Hook
 
-Num States: 16\n
+TextId: tripwire_hook
+
+MinId: 4740
+
+MaxId: 4755
+
+Hardness: 
+
+Resistance: 
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

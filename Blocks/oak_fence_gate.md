@@ -1,11 +1,18 @@
-# Oak Fence Gate\n
-TextId: oak_fence_gate\n
-MinId: 4301\n
-MaxId: 4332\n
-Hardness: 2\n
-Resistance: 3\n
+# Oak Fence Gate
 
-Num States: 32\n
+TextId: oak_fence_gate
+
+MinId: 4301
+
+MaxId: 4332
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 32
+
 # States
 ```
 Name: facing

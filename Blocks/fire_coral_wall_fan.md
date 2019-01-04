@@ -1,11 +1,18 @@
-# Fire Coral Wall Fan\n
-TextId: fire_coral_wall_fan\n
-MinId: 8544\n
-MaxId: 8551\n
-Hardness: 0\n
-Resistance: 0\n
+# Fire Coral Wall Fan
 
-Num States: 8\n
+TextId: fire_coral_wall_fan
+
+MinId: 8544
+
+MaxId: 8551
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

@@ -1,11 +1,18 @@
-# Peony\n
-TextId: peony\n
-MinId: 6849\n
-MaxId: 6850\n
-Hardness: 0\n
-Resistance: 0\n
+# Peony
 
-Num States: 2\n
+TextId: peony
+
+MinId: 6849
+
+MaxId: 6850
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: half

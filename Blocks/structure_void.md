@@ -1,11 +1,18 @@
-# Structure Void\n
-TextId: structure_void\n
-MinId: 8199\n
-MaxId: 8199\n
-Hardness: \n
-Resistance: \n
+# Structure Void
 
-Num States: 1\n
+TextId: structure_void
+
+MinId: 8199
+
+MaxId: 8199
+
+Hardness: 
+
+Resistance: 
+
+
+Num States: 1
+
 # States
 ```
 

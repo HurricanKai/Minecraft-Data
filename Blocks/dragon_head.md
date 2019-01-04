@@ -1,11 +1,18 @@
-# Dragon Head\n
-TextId: dragon_head\n
-MinId: 5552\n
-MaxId: 5567\n
-Hardness: 1\n
-Resistance: 1\n
+# Dragon Head
 
-Num States: 16\n
+TextId: dragon_head
+
+MinId: 5552
+
+MaxId: 5567
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 16
+
 # States
 ```
 Name: rotation

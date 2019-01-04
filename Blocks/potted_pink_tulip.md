@@ -1,11 +1,18 @@
-# Potted Pink Tulip\n
-TextId: potted_pink_tulip\n
-MinId: 5282\n
-MaxId: 5282\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Pink Tulip
 
-Num States: 1\n
+TextId: potted_pink_tulip
+
+MinId: 5282
+
+MaxId: 5282
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

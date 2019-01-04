@@ -1,11 +1,18 @@
-# Spruce Trapdoor\n
-TextId: spruce_trapdoor\n
-MinId: 3658\n
-MaxId: 3721\n
-Hardness: 3\n
-Resistance: 3\n
+# Spruce Trapdoor
 
-Num States: 64\n
+TextId: spruce_trapdoor
+
+MinId: 3658
+
+MaxId: 3721
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 64
+
 # States
 ```
 Name: facing

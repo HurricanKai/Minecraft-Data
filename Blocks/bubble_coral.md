@@ -1,11 +1,18 @@
-# Bubble Coral\n
-TextId: bubble_coral\n
-MinId: 8474\n
-MaxId: 8475\n
-Hardness: 0\n
-Resistance: 0\n
+# Bubble Coral
 
-Num States: 2\n
+TextId: bubble_coral
+
+MinId: 8474
+
+MaxId: 8475
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

@@ -1,11 +1,18 @@
-# Stone Brick Slab\n
-TextId: stone_brick_slab\n
-MinId: 7324\n
-MaxId: 7329\n
-Hardness: 2\n
-Resistance: 6\n
+# Stone Brick Slab
 
-Num States: 6\n
+TextId: stone_brick_slab
+
+MinId: 7324
+
+MaxId: 7329
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 6
+
 # States
 ```
 Name: type

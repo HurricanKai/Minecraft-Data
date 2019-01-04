@@ -1,11 +1,18 @@
-# Nether Brick Slab\n
-TextId: nether_brick_slab\n
-MinId: 7330\n
-MaxId: 7335\n
-Hardness: 2\n
-Resistance: 6\n
+# Nether Brick Slab
 
-Num States: 6\n
+TextId: nether_brick_slab
+
+MinId: 7330
+
+MaxId: 7335
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 6
+
 # States
 ```
 Name: type

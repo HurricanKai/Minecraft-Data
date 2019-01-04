@@ -1,11 +1,18 @@
-# Cyan Stained Glass\n
-TextId: cyan_stained_glass\n
-MinId: 3587\n
-MaxId: 3587\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Cyan Stained Glass
 
-Num States: 1\n
+TextId: cyan_stained_glass
+
+MinId: 3587
+
+MaxId: 3587
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

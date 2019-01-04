@@ -1,11 +1,18 @@
-# Magenta Wool\n
-TextId: magenta_wool\n
-MinId: 1085\n
-MaxId: 1085\n
-Hardness: 0,8\n
-Resistance: 0,8\n
+# Magenta Wool
 
-Num States: 1\n
+TextId: magenta_wool
+
+MinId: 1085
+
+MaxId: 1085
+
+Hardness: 0,8
+
+Resistance: 0,8
+
+
+Num States: 1
+
 # States
 ```
 

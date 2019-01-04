@@ -1,11 +1,18 @@
-# Jungle Trapdoor\n
-TextId: jungle_trapdoor\n
-MinId: 3786\n
-MaxId: 3849\n
-Hardness: 3\n
-Resistance: 3\n
+# Jungle Trapdoor
 
-Num States: 64\n
+TextId: jungle_trapdoor
+
+MinId: 3786
+
+MaxId: 3849
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 64
+
 # States
 ```
 Name: facing

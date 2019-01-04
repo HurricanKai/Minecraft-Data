@@ -1,11 +1,18 @@
-# Light Blue Glazed Terracotta\n
-TextId: light_blue_glazed_terracotta\n
-MinId: 8326\n
-MaxId: 8329\n
-Hardness: 1,4\n
-Resistance: 1,4\n
+# Light Blue Glazed Terracotta
 
-Num States: 4\n
+TextId: light_blue_glazed_terracotta
+
+MinId: 8326
+
+MaxId: 8329
+
+Hardness: 1,4
+
+Resistance: 1,4
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

@@ -1,11 +1,18 @@
-# Pink Carpet\n
-TextId: pink_carpet\n
-MinId: 6830\n
-MaxId: 6830\n
-Hardness: 0,1\n
-Resistance: 0,1\n
+# Pink Carpet
 
-Num States: 1\n
+TextId: pink_carpet
+
+MinId: 6830
+
+MaxId: 6830
+
+Hardness: 0,1
+
+Resistance: 0,1
+
+
+Num States: 1
+
 # States
 ```
 

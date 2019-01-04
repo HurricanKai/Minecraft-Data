@@ -1,11 +1,18 @@
-# Potted Dark Oak Sapling\n
-TextId: potted_dark_oak_sapling\n
-MinId: 5272\n
-MaxId: 5272\n
-Hardness: 0\n
-Resistance: 0\n
+# Potted Dark Oak Sapling
 
-Num States: 1\n
+TextId: potted_dark_oak_sapling
+
+MinId: 5272
+
+MaxId: 5272
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Purpur Slab\n
-TextId: purpur_slab\n
-MinId: 7348\n
-MaxId: 7353\n
-Hardness: 2\n
-Resistance: 6\n
+# Purpur Slab
 
-Num States: 6\n
+TextId: purpur_slab
+
+MinId: 7348
+
+MaxId: 7353
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 6
+
 # States
 ```
 Name: type

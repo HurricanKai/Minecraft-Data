@@ -1,11 +1,18 @@
-# Dead Brain Coral\n
-TextId: dead_brain_coral\n
-MinId: 8462\n
-MaxId: 8463\n
-Hardness: 0\n
-Resistance: 0\n
+# Dead Brain Coral
 
-Num States: 2\n
+TextId: dead_brain_coral
+
+MinId: 8462
+
+MaxId: 8463
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: waterlogged

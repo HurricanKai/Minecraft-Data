@@ -1,11 +1,18 @@
-# Sunflower\n
-TextId: sunflower\n
-MinId: 6843\n
-MaxId: 6844\n
-Hardness: 0\n
-Resistance: 0\n
+# Sunflower
 
-Num States: 2\n
+TextId: sunflower
+
+MinId: 6843
+
+MaxId: 6844
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: half

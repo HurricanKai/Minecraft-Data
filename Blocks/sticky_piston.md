@@ -1,11 +1,18 @@
-# Sticky Piston\n
-TextId: sticky_piston\n
-MinId: 1028\n
-MaxId: 1039\n
-Hardness: 0,5\n
-Resistance: 0,5\n
+# Sticky Piston
 
-Num States: 12\n
+TextId: sticky_piston
+
+MinId: 1028
+
+MaxId: 1039
+
+Hardness: 0,5
+
+Resistance: 0,5
+
+
+Num States: 12
+
 # States
 ```
 Name: facing

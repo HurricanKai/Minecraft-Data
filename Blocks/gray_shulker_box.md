@@ -1,11 +1,18 @@
-# Gray Shulker Box\n
-TextId: gray_shulker_box\n
-MinId: 8260\n
-MaxId: 8265\n
-Hardness: 2\n
-Resistance: 2\n
+# Gray Shulker Box
 
-Num States: 6\n
+TextId: gray_shulker_box
+
+MinId: 8260
+
+MaxId: 8265
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 6
+
 # States
 ```
 Name: facing

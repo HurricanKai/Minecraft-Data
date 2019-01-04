@@ -1,11 +1,18 @@
-# Infested Stone\n
-TextId: infested_stone\n
-MinId: 3978\n
-MaxId: 3978\n
-Hardness: 0\n
-Resistance: 0,75\n
+# Infested Stone
 
-Num States: 1\n
+TextId: infested_stone
+
+MinId: 3978
+
+MaxId: 3978
+
+Hardness: 0
+
+Resistance: 0,75
+
+
+Num States: 1
+
 # States
 ```
 

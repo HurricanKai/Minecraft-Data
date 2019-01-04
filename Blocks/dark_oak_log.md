@@ -1,11 +1,18 @@
-# Dark Oak Log\n
-TextId: dark_oak_log\n
-MinId: 87\n
-MaxId: 89\n
-Hardness: 2\n
-Resistance: 2\n
+# Dark Oak Log
 
-Num States: 3\n
+TextId: dark_oak_log
+
+MinId: 87
+
+MaxId: 89
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

@@ -1,11 +1,18 @@
-# Mossy Cobblestone\n
-TextId: mossy_cobblestone\n
-MinId: 1129\n
-MaxId: 1129\n
-Hardness: 2\n
-Resistance: 6\n
+# Mossy Cobblestone
 
-Num States: 1\n
+TextId: mossy_cobblestone
+
+MinId: 1129
+
+MaxId: 1129
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

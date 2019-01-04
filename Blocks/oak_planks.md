@@ -1,11 +1,18 @@
-# Oak Planks\n
-TextId: oak_planks\n
-MinId: 15\n
-MaxId: 15\n
-Hardness: 2\n
-Resistance: 3\n
+# Oak Planks
 
-Num States: 1\n
+TextId: oak_planks
+
+MinId: 15
+
+MaxId: 15
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

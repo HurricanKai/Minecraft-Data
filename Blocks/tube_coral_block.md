@@ -1,11 +1,18 @@
-# Tube Coral Block\n
-TextId: tube_coral_block\n
-MinId: 8455\n
-MaxId: 8455\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Tube Coral Block
 
-Num States: 1\n
+TextId: tube_coral_block
+
+MinId: 8455
+
+MaxId: 8455
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

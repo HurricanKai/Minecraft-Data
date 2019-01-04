@@ -1,11 +1,18 @@
-# Purpur Block\n
-TextId: purpur_block\n
-MinId: 8074\n
-MaxId: 8074\n
-Hardness: 1,5\n
-Resistance: 6\n
+# Purpur Block
 
-Num States: 1\n
+TextId: purpur_block
+
+MinId: 8074
+
+MaxId: 8074
+
+Hardness: 1,5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

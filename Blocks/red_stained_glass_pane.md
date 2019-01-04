@@ -1,11 +1,18 @@
-# Red Stained Glass Pane\n
-TextId: red_stained_glass_pane\n
-MinId: 6269\n
-MaxId: 6300\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Red Stained Glass Pane
 
-Num States: 32\n
+TextId: red_stained_glass_pane
+
+MinId: 6269
+
+MaxId: 6300
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 32
+
 # States
 ```
 Name: north

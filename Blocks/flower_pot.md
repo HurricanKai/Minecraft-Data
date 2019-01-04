@@ -1,11 +1,18 @@
-# Flower Pot\n
-TextId: flower_pot\n
-MinId: 5266\n
-MaxId: 5266\n
-Hardness: 0\n
-Resistance: 0\n
+# Flower Pot
 
-Num States: 1\n
+TextId: flower_pot
+
+MinId: 5266
+
+MaxId: 5266
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# Carved Pumpkin\n
-TextId: carved_pumpkin\n
-MinId: 3499\n
-MaxId: 3502\n
-Hardness: 1\n
-Resistance: 1\n
+# Carved Pumpkin
 
-Num States: 4\n
+TextId: carved_pumpkin
+
+MinId: 3499
+
+MaxId: 3502
+
+Hardness: 1
+
+Resistance: 1
+
+
+Num States: 4
+
 # States
 ```
 Name: facing

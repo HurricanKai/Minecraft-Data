@@ -1,11 +1,18 @@
-# Mycelium\n
-TextId: mycelium\n
-MinId: 4493\n
-MaxId: 4494\n
-Hardness: 0,6\n
-Resistance: 0,6\n
+# Mycelium
 
-Num States: 2\n
+TextId: mycelium
+
+MinId: 4493
+
+MaxId: 4494
+
+Hardness: 0,6
+
+Resistance: 0,6
+
+
+Num States: 2
+
 # States
 ```
 Name: snowy

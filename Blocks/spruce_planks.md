@@ -1,11 +1,18 @@
-# Spruce Planks\n
-TextId: spruce_planks\n
-MinId: 16\n
-MaxId: 16\n
-Hardness: 2\n
-Resistance: 3\n
+# Spruce Planks
 
-Num States: 1\n
+TextId: spruce_planks
+
+MinId: 16
+
+MaxId: 16
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

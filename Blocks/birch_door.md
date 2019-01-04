@@ -1,11 +1,18 @@
-# Birch Door\n
-TextId: birch_door\n
-MinId: 7742\n
-MaxId: 7805\n
-Hardness: 3\n
-Resistance: 3\n
+# Birch Door
 
-Num States: 64\n
+TextId: birch_door
+
+MinId: 7742
+
+MaxId: 7805
+
+Hardness: 3
+
+Resistance: 3
+
+
+Num States: 64
+
 # States
 ```
 Name: half

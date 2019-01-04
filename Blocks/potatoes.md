@@ -1,11 +1,18 @@
-# Potatoes\n
-TextId: potatoes\n
-MinId: 5296\n
-MaxId: 5303\n
-Hardness: 0\n
-Resistance: 0\n
+# Potatoes
 
-Num States: 8\n
+TextId: potatoes
+
+MinId: 5296
+
+MaxId: 5303
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 8
+
 # States
 ```
 Name: age

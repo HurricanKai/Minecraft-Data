@@ -1,11 +1,18 @@
-# Obsidian\n
-TextId: obsidian\n
-MinId: 1130\n
-MaxId: 1130\n
-Hardness: 50\n
-Resistance: 1200\n
+# Obsidian
 
-Num States: 1\n
+TextId: obsidian
+
+MinId: 1130
+
+MaxId: 1130
+
+Hardness: 50
+
+Resistance: 1200
+
+
+Num States: 1
+
 # States
 ```
 

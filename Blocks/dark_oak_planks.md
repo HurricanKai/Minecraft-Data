@@ -1,11 +1,18 @@
-# Dark Oak Planks\n
-TextId: dark_oak_planks\n
-MinId: 20\n
-MaxId: 20\n
-Hardness: 2\n
-Resistance: 3\n
+# Dark Oak Planks
 
-Num States: 1\n
+TextId: dark_oak_planks
+
+MinId: 20
+
+MaxId: 20
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

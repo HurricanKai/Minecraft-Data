@@ -1,11 +1,18 @@
-# Furnace\n
-TextId: furnace\n
-MinId: 3068\n
-MaxId: 3075\n
-Hardness: 3,5\n
-Resistance: 3,5\n
+# Furnace
 
-Num States: 8\n
+TextId: furnace
+
+MinId: 3068
+
+MaxId: 3075
+
+Hardness: 3,5
+
+Resistance: 3,5
+
+
+Num States: 8
+
 # States
 ```
 Name: facing

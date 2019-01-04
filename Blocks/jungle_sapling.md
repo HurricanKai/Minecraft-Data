@@ -1,11 +1,18 @@
-# Jungle Sapling\n
-TextId: jungle_sapling\n
-MinId: 27\n
-MaxId: 28\n
-Hardness: 0\n
-Resistance: 0\n
+# Jungle Sapling
 
-Num States: 2\n
+TextId: jungle_sapling
+
+MinId: 27
+
+MaxId: 28
+
+Hardness: 0
+
+Resistance: 0
+
+
+Num States: 2
+
 # States
 ```
 Name: stage

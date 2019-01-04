@@ -1,11 +1,18 @@
-# Blue Ice\n
-TextId: blue_ice\n
-MinId: 8588\n
-MaxId: 8588\n
-Hardness: 2,8\n
-Resistance: 2,8\n
+# Blue Ice
 
-Num States: 1\n
+TextId: blue_ice
+
+MinId: 8588
+
+MaxId: 8588
+
+Hardness: 2,8
+
+Resistance: 2,8
+
+
+Num States: 1
+
 # States
 ```
 

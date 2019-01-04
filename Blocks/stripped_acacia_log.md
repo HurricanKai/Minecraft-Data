@@ -1,11 +1,18 @@
-# Stripped Acacia Log\n
-TextId: stripped_acacia_log\n
-MinId: 99\n
-MaxId: 101\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Acacia Log
 
-Num States: 3\n
+TextId: stripped_acacia_log
+
+MinId: 99
+
+MaxId: 101
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

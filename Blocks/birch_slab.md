@@ -1,11 +1,18 @@
-# Birch Slab\n
-TextId: birch_slab\n
-MinId: 7270\n
-MaxId: 7275\n
-Hardness: 2\n
-Resistance: 3\n
+# Birch Slab
 
-Num States: 6\n
+TextId: birch_slab
+
+MinId: 7270
+
+MaxId: 7275
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 6
+
 # States
 ```
 Name: type

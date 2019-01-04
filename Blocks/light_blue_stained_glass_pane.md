@@ -1,11 +1,18 @@
-# Light Blue Stained Glass Pane\n
-TextId: light_blue_stained_glass_pane\n
-MinId: 5917\n
-MaxId: 5948\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Light Blue Stained Glass Pane
 
-Num States: 32\n
+TextId: light_blue_stained_glass_pane
+
+MinId: 5917
+
+MaxId: 5948
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 32
+
 # States
 ```
 Name: north

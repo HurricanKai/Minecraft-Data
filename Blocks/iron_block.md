@@ -1,11 +1,18 @@
-# Block of Iron\n
-TextId: iron_block\n
-MinId: 1124\n
-MaxId: 1124\n
-Hardness: 5\n
-Resistance: 6\n
+# Block of Iron
 
-Num States: 1\n
+TextId: iron_block
+
+MinId: 1124
+
+MaxId: 1124
+
+Hardness: 5
+
+Resistance: 6
+
+
+Num States: 1
+
 # States
 ```
 

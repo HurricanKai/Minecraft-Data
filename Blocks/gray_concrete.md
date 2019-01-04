@@ -1,11 +1,18 @@
-# Gray Concrete\n
-TextId: gray_concrete\n
-MinId: 8385\n
-MaxId: 8385\n
-Hardness: 1,8\n
-Resistance: 1,8\n
+# Gray Concrete
 
-Num States: 1\n
+TextId: gray_concrete
+
+MinId: 8385
+
+MaxId: 8385
+
+Hardness: 1,8
+
+Resistance: 1,8
+
+
+Num States: 1
+
 # States
 ```
 

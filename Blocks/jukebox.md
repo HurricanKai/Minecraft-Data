@@ -1,11 +1,18 @@
-# Jukebox\n
-TextId: jukebox\n
-MinId: 3459\n
-MaxId: 3460\n
-Hardness: 2\n
-Resistance: 6\n
+# Jukebox
 
-Num States: 2\n
+TextId: jukebox
+
+MinId: 3459
+
+MaxId: 3460
+
+Hardness: 2
+
+Resistance: 6
+
+
+Num States: 2
+
 # States
 ```
 Name: has_record

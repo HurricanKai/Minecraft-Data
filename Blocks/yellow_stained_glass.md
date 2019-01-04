@@ -1,11 +1,18 @@
-# Yellow Stained Glass\n
-TextId: yellow_stained_glass\n
-MinId: 3582\n
-MaxId: 3582\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Yellow Stained Glass
 
-Num States: 1\n
+TextId: yellow_stained_glass
+
+MinId: 3582
+
+MaxId: 3582
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 1
+
 # States
 ```
 

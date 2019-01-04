@@ -1,11 +1,18 @@
-# Enchanting Table\n
-TextId: enchanting_table\n
-MinId: 4613\n
-MaxId: 4613\n
-Hardness: 5\n
-Resistance: 1200\n
+# Enchanting Table
 
-Num States: 1\n
+TextId: enchanting_table
+
+MinId: 4613
+
+MaxId: 4613
+
+Hardness: 5
+
+Resistance: 1200
+
+
+Num States: 1
+
 # States
 ```
 

@@ -1,11 +1,18 @@
-# White Bed\n
-TextId: white_bed\n
-MinId: 748\n
-MaxId: 763\n
-Hardness: 0,2\n
-Resistance: 0,2\n
+# White Bed
 
-Num States: 16\n
+TextId: white_bed
+
+MinId: 748
+
+MaxId: 763
+
+Hardness: 0,2
+
+Resistance: 0,2
+
+
+Num States: 16
+
 # States
 ```
 Name: facing

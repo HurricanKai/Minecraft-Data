@@ -1,11 +1,18 @@
-# Stripped Acacia Wood\n
-TextId: stripped_acacia_wood\n
-MinId: 138\n
-MaxId: 140\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Acacia Wood
 
-Num States: 3\n
+TextId: stripped_acacia_wood
+
+MinId: 138
+
+MaxId: 140
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

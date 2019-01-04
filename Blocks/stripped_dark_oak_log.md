@@ -1,11 +1,18 @@
-# Stripped Dark Oak Log\n
-TextId: stripped_dark_oak_log\n
-MinId: 102\n
-MaxId: 104\n
-Hardness: 2\n
-Resistance: 2\n
+# Stripped Dark Oak Log
 
-Num States: 3\n
+TextId: stripped_dark_oak_log
+
+MinId: 102
+
+MaxId: 104
+
+Hardness: 2
+
+Resistance: 2
+
+
+Num States: 3
+
 # States
 ```
 Name: axis

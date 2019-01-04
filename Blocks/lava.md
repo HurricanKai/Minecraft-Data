@@ -1,11 +1,18 @@
-# Lava\n
-TextId: lava\n
-MinId: 50\n
-MaxId: 65\n
-Hardness: 100\n
-Resistance: 100\n
+# Lava
 
-Num States: 16\n
+TextId: lava
+
+MinId: 50
+
+MaxId: 65
+
+Hardness: 100
+
+Resistance: 100
+
+
+Num States: 16
+
 # States
 ```
 Name: level

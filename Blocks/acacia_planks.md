@@ -1,11 +1,18 @@
-# Acacia Planks\n
-TextId: acacia_planks\n
-MinId: 19\n
-MaxId: 19\n
-Hardness: 2\n
-Resistance: 3\n
+# Acacia Planks
 
-Num States: 1\n
+TextId: acacia_planks
+
+MinId: 19
+
+MaxId: 19
+
+Hardness: 2
+
+Resistance: 3
+
+
+Num States: 1
+
 # States
 ```
 

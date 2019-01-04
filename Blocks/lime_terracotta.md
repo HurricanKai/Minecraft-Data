@@ -1,11 +1,18 @@
-# Lime Terracotta\n
-TextId: lime_terracotta\n
-MinId: 5810\n
-MaxId: 5810\n
-Hardness: 1,25\n
-Resistance: 4,2\n
+# Lime Terracotta
 
-Num States: 1\n
+TextId: lime_terracotta
+
+MinId: 5810
+
+MaxId: 5810
+
+Hardness: 1,25
+
+Resistance: 4,2
+
+
+Num States: 1
+
 # States
 ```
 

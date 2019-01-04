@@ -1,11 +1,18 @@
-# Yellow Stained Glass Pane\n
-TextId: yellow_stained_glass_pane\n
-MinId: 5949\n
-MaxId: 5980\n
-Hardness: 0,3\n
-Resistance: 0,3\n
+# Yellow Stained Glass Pane
 
-Num States: 32\n
+TextId: yellow_stained_glass_pane
+
+MinId: 5949
+
+MaxId: 5980
+
+Hardness: 0,3
+
+Resistance: 0,3
+
+
+Num States: 32
+
 # States
 ```
 Name: north
