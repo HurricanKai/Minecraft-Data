@@ -1,0 +1,30 @@
+# Jungle Fence
+TextId: jungle_fence
+MinId: 7582
+MaxId: 7613
+Hardness: 2
+Resistance: 3
+
+Num States: 32
+# States
+```
+Name: north
+Type: bool
+Num Values: 2
+
+Name: east
+Type: bool
+Num Values: 2
+
+Name: west
+Type: bool
+Num Values: 2
+
+Name: south
+Type: bool
+Num Values: 2
+
+Name: waterlogged
+Type: bool
+Num Values: 2
+```
